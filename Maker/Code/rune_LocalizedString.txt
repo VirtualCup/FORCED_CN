@@ -1,0 +1,78 @@
+# function TraverseArgs
+
+	stringElements.Clear();
+	variableLookup.Clear();
+	for (int i = 0; i < args.Length; i++)
+	{
+		object obj = args[i];
+		if (obj.GetType() != typeof(string))
+		{
+			stringElements.Add(obj);
+			stringElements.Add(" ");
+		}
+		else
+		{
+			string text = (string)obj;
+			
+			string text_new = text.Replace("#", "");
+			int howmany = text.Length - text_new.Length;
+			for (int j = 0; j < howmany; j++)
+			{
+				stringElements.Add("");
+			}
+			text = text_new;
+			
+			if (text.Contains("$"))
+			{
+				int num = text.IndexOf('$');
+				string item = text.Substring(0, num);
+				stringElements.Add(item);
+				int num2 = num + 3;
+				string text2 = text.Substring(num2, text.Length - num2);
+				string text3 = text.Substring(num, 3);
+				if (text3.Length != 3)
+				{
+					throw new Exception("Wrong variable argument " + text3 + ", e.g. $i4");
+				}
+				char c = text3.ToLower()[1];
+				object obj2 = null;
+				switch (c)
+				{
+				case 'i':
+					obj2 = 0;
+					break;
+				case 's':
+					obj2 = string.Empty;
+					break;
+				case 'f':
+					obj2 = 0f;
+					break;
+				default:
+					throw new Exception("Objective does not support other variables types than int " + text3[1]);
+				}
+				int result;
+				if (!int.TryParse(string.Empty + text3[2], out result))
+				{
+					throw new Exception("Wrong variable argument " + text3 + ", e.g. $i4");
+				}
+				if (result < 4)
+				{
+					throw new Exception("Inlet index have to exceed 3, e.g. $i4");
+				}
+				result--;
+				if (!variableLookup.ContainsKey(result))
+				{
+					variableLookup.Add(result, new List<int>());
+				}
+				variableLookup[result].Add(stringElements.Count);
+				stringElements.Add(obj2);
+				args[i] = text2;
+				i--;
+			}
+			else
+			{
+				stringElements.Add(text + " ");
+			}
+		}
+	}
+	return UpdateString(stringElements);

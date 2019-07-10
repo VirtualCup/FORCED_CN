@@ -1,0 +1,1220 @@
+<method=1>,,,
+,,NONE,NONE
+"Missing RUNE, please contact info@betadwarf.com",缺少RUNE，请联系 info@betadwarf.com,errors_missing_rune,GUI_Errors1
+Confirm,确定,words_confirm,GUI_words_confirm
+Cancel,取消,words_cancel,GUI_words_cancel
+"Logging in, please wait..",登陆中，请稍等……,wait_loggingin,GUI_wait_loggingin
+Connecting to '§'....,正连接至“§”……,wait_connectingtogame,GUI_wait_connectingtogame
+NAT punchthrough failed. Trying direct connect.,NAT穿透失败。正尝试直连。,wait_tryingdirectconnect,GUI_wait_tryingdirectconnect
+Creating game with name '§'....,正创建名为“§”的游戏……,wait_creatinggame,GUI_wait_creatinggame
+"You are already trying to log-in, please wait..",你已在登陆，请稍等……,wait_alreadyloggingin,GUI_wait_alreadyloggingin
+You are already connected to the chosen game..,你已连接至所选游戏……,wait_alreadyconnectedtochosenhost,GUI_wait_alreadyconnectedtochosenhost
+You are already trying to connect to '§',你已经在连接“§”了,wait_alreadyconnecting,GUI_wait_alreadyconnecting
+That game is too full,游戏人数已满,lobby_toomanyplayers,GUI_lobby_toomanyplayers
+You are waiting for an answer from server,正等待服务器回应,dropin_waitingforanswer,GUI_dropin_waitingforanswer
+Server declined your join attempt :(,服务器已拒绝你的加入申请 T-T,dropin_declined_standard,GUI_dropin_declined_standard
+This server has temporarily banned you due to too many declined drop-in attempts.,由于你的加入申请被拒绝太多次，该服务器暂时封禁了你。,dropin_declined_toomanyattempts,GUI_dropin_declined_toomanyattempts
+_empty_,_empty_,errors_failed_to_connect_1,GUI_errors_failed_to_connect_1
+"Result from database didn’t conform to expected standards, please report this on our forums at www.forcedthegame.com/forum",来自数据库的结果和预期标准不一致，请把该问题上报至我们的论坛（www.forcedthegame.com/forum）,errors_failed_log_in_0,GUI_errors_failed_log_in_0
+User does not have beta access,该用户没有Beta测试的权限,errors_failed_log_in_1,GUI_errors_failed_log_in_1
+Invalid username or password,无效的用户名或密码,errors_failed_log_in_2,GUI_errors_failed_log_in_2
+Invalid username or password,无效的用户名或密码,errors_failed_log_in_3,GUI_errors_failed_log_in_3
+Demo is sadly no longer available. :( Please support the game and buy it at www.forcedthegame.com to continue playing!,很可惜试用版已下架。T-T 请支持该游戏并到（www.forcedthegame.com）购买以继续游玩！,errors_failed_log_in_4,GUI_errors_failed_log_in_4
+"Couldn’t complete database request, probably no internet connection or our server is down.",无法完成数据库请求，有可能是网络无连接或是我们已经撤掉了服务器。,errors_failed_log_in_5,GUI_errors_failed_log_in_5
+"Build produced a fatal error attempting to login, please report this on our forums at www.forcedthegame.com/forum",在尝试登陆期间游戏发生了严重错误，请把该问题上报至我们的论坛（www.forcedthegame.com/forum）,errors_failed_log_in_6,GUI_errors_failed_log_in_6
+This build is out of date. Please download the newest at our forums located at www.forcedthegame.com/forum,该版本已失效。请到我们的论坛（www.forcedthegame.com/forum）下载最新版本,errors_failed_log_in_7,GUI_errors_failed_log_in_7
+Failed to create game with error '§',由于错误“§”导致游戏创建失败。,errors_failed_creating_game,GUI_errors_failed_creating_game
+_empty_,_empty_,no_internet_access,GUI_no_internet_access
+WARNING,警告,warning_headline,GUI_warning_headline
+_empty_,_empty_,failed_headline,GUI_failed_headline
+News,新闻,words_news,GUI_words_news
+Co-op play,多人合作,words_coopplay,GUI_words_coopplay
+Singleplayer,单人游戏,words_singleplayer,GUI_words_singleplayer
+Ranking,排位,words_ranking,GUI_words_ranking
+Settings,设置,words_settings,GUI_words_settings
+Quit,退出,words_quit,GUI_words_quit
+Language,语言,words_language,GUI_words_language
+Resolution,分辨率,words_resolution,GUI_words_resolution
+Quality,质量,words_quality,GUI_words_quality
+Music,音乐,words_music,GUI_words_music
+Fullscreen,全屏,words_fullscreen,GUI_words
+Subtitles,字幕,words_subtitles,GUI_words
+Complete,完成,words_complete,GUI_words
+Login,登陆,words_login,GUI_words_login
+Username,用户名,words_username,GUI_words_username
+Password,密码,words_password,GUI_words_password
+Remember login,记住登陆设置,remember_login,GUI_remember_login
+Forgot your password?,忘记密码了？,forgot_password,GUI_forgot_password
+"Finally, some company!",终于，有人来作伴了！,orb_tut_1Company,Dialog_Tutorial
+"Greetings, my name is Balfus. I am a Spirit Mentor. <t>*</t>My kind has trained untold generations of gladiators for honorable combat in this very arena. <t>*</t>Starting now, I'll be training you. <t>*</t>The first thing we need to cover is The Se-",你好，我叫巴尔福思，是个精神导师。<t>4.7</t>我的族人已经训练过无数角斗士参加这座超级角斗场的荣耀之战。<t>6.6</t>从现在起，我要对你进行训练。<t>4.1</t>我们要解决的第一件事就是挑——,orb_tut_1OrbIntro,Dialog_Tutorial
+"Greetings, my name is Balfus. I am a Spirit Mentor. <t>*</t>Starting now, I'll be training you. <t>*</t>The first thing we need to cover is The Se-",你好，我叫巴尔福思，是个精神导师。<t>4.7</t>从现在起，我要对你进行训练。<t>4.1</t>我们要解决的第一件事就是挑——,orb_tut_1OrbIntroShort,Dialog_Tutorial
+Silence servant! I shall inspect the newest batch!,安静，仆人！我要检查这批新人！,orb_tut_1WHAppraisal,Dialog_Tutorial
+Pathetic! These scrawny slaves will not even make it through The Selection.,太可悲了！这些瘦巴巴的奴隶甚至连挑选试炼都过不了。,orb_tut_1WHDisappointment,Dialog_Tutorial
+"Weaklings! Listen, your gods are not here! <t>5</t>You are livestock. Your people - livestock. <t>7</t>You are bred only to produce gladiators for us. <t>5</t>So far all you have produced are corpses.",弱鸡！听好了，你们的神不在这！<t>5</t>你是家畜。你的族人——也是家畜。<t>7</t>饲养你们的目的就只是为了给我们生产角斗士。<t>5</t>而到目前为止你们生产的全都是尸体。,orb_tut_1WHNoGods,Dialog_Tutorial
+"Weaklings! Listen, your gods are not here! <t>5</t>You are bred only to produce gladiators for us. <t>5</t>So far all you have produced are corpses.",弱鸡！听好了，你们的神不在这！<t>5</t>饲养你们的目的就只是为了给我们生产角斗士。<t>5</t>而到目前为止你们生产的全都是尸体。,orb_tut_1WHNoGodsShort,Dialog_Tutorial
+That unbearable half-wit!,那白痴真让人受不了！,orb_tut_1Halfwit,Dialog_Tutorial
+"That was Wrathhoof, the first guardian. <t>*</t>You will meet him again soon enough. <t>*</t>Now, as I was saying, it is my sacred task to see you through The Selection... <t>*</t>or at least give you a fighting chance. Ready? Good.",那是怒蹄，第一个守护者。<t>3.7</t>你们很快就会再见的。<t>2.4</t>好了，正如我之前所说，我的神圣职责就是让你通过挑选试炼……<t>7</t>或者说至少得给你战斗的机会，准备好了吗？很好。,orb_tut_1IntroofWH,Dialog_Tutorial
+Follow me.,跟我来。,orb_tut_1FollowMe,Dialog_Tutorial
+"Pick up a weapon, choose your style. <t>*</t>Each has a rich tradition. <t>*</t>Strengths, weaknesses... glory. <t>4.5</t>Don't worry too much about it, you can always change it later on.",挑选适合自己风格的武器吧。<t>3.8</t>每件武器都有着丰富的传统。<t>2.6</t>力量，缺点……荣耀。<t>4.5</t>别考虑太多，你之后随时能换。,orb_tut_2PickWeapon,Dialog_Tutorial
+This way.,这边。,orb_tut_2ThisWay,Dialog_Tutorial
+The Selection begins!,挑选试炼开始！,orb_tut_2SelectionBegins,Dialog_Tutorial
+Try not to get hurt... too much.,当心别伤……得太重。,orb_tut_2TryNot,Dialog_Tutorial
+Not bad. I think we can take this up a notch... <t>*</t>Let you feel your real powers. Are you ready? Excellent.,还不赖。<t>2</t>我想我们可以更进一步……让你感受自己真正的实力。<t>4.7</t>你准备好了吗？非常好。,orb_tut_2NoCasualties,Dialog_Tutorial
+As gladiators you wield the power of marks. You will find them useful...,身为角斗士的你持有印记之力。你会发现它们非常有用……,orb_tut_2UsefulMarks,Dialog_Tutorial
+"Behold! This worthy opponent can not be hurt by normal means, attack him now - use your marks.",注意！一般手段伤不到这位优秀的对手，现在攻击他——利用你的印记。,orb_tut_2IntroOfMarks,Dialog_Tutorial
+You have now fully Marked him up. Now finish him!,你已经给他标上足够多的印记了。现在了结他吧！,orb_tut_2FullyMarked,Dialog_Tutorial
+"Very good, now do it again, from the top.",非常好，现在从头再来一遍。,orb_tut_2DummyAgain,Dialog_Tutorial
+Your powers will have greater effect on enemies with many marks.,印记越多，你的力量就对敌人越有效。,orb_tut_2MarkedHint,Dialog_Tutorial
+Let’s move on to more... complicated lessons.,让我们接着上更……复杂的课程吧。,orb_tut_2MoveOn,Dialog_Tutorial
+Ambush!,有埋伏！,orb_tut_3Ambush,Dialog_Tutorial
+A gladiator must always be prepared. Understood? Great.,角斗士必须时刻做好准备。懂吗？非常好。,orb_tut_3BePrepared,Dialog_Tutorial
+"Now, you must learn to harness the power of your Spirit Mentor - my power. <t>*</t>I can reach places you cannot, and help you greatly in the Trials - within the rules, of course. Try to call me.",现在，你得学会使用你精神导师的力量——也就是我的力量。<t>6.1</t>我能去到你无法到达的地方，而且能很大程度上帮助你的试炼——当然，规则还是要遵守。试着呼唤我吧。,orb_tut_3LearnOrb,Dialog_Tutorial
+"Excellent. Using what you’ve just learned, navigate me over the three Shrines to activate them.",很好，利用你方才所学，引导我去激活那三座神坛。,orb_tut_3ThreeShrines,Dialog_Tutorial
+"Finally you must activate the Healing Shrine. <t>*</t>These are very useful, be sure to look for them in The Trials. It will save your lives.",最后你得激活那座治愈神坛。<t>3.2</t>这东西非常有用，一定要在试炼中找到它们。它能救你的命。,orb_tut_3HealingShrine,Dialog_Tutorial
+Ambush! On your guard!,有埋伏！保护自己！,orb_tut_4AnotherAmbush,Dialog_Tutorial
+A Marked enemy is a vulnerable enemy. Never forget it.,带有印记的敌人会比较弱。请牢记这一点。,orb_tut_4MarkedHint2,Dialog_Tutorial
+Now I deem you ready to-,现在，我相信你已经准备好去——,orb_tut_4Ready,Dialog_Tutorial
+"Ready?! What a joke! <t>*</t>You might have survived The Selection weaklings, but you have a long way to go before I'll pass you.",准备好？！真是笑话！<t>4.1</t>你也许是通过了挑选试炼，弱鸡，但在我给你合格前，你还有好长的路要走。,orb_tut_4WHMyTrials,Dialog_Tutorial
+I swear he interrupts me on purpose!,我敢肯定他是故意打断我的！,orb_tut_4MoveOn,Dialog_Tutorial
+You've fought with honor so far - not everybody makes it through The Selection.,到目前为止你的战斗都很精彩——并非所有人都能通过挑选试炼。,orb_tut_4DidGreat,Dialog_Tutorial
+"You've passed your first test! <t>*</t>Go now, to the Hall of Trials - there, your true test lies!",你已经通过第一项测试了！<t>3</t>去吧，去试炼大厅——在那里，有你真正的试炼！,orb_tut_4MoveTo,Dialog_Tutorial
+"Go now, to the Hall of Trials - there, your true test lies!",去吧，去试炼大厅那——那里，有你真正的试炼！,orb_tut_4MoveToShort,Dialog_Tutorial
+I have granted you the power of marks. Attack to apply marks $i4/$i5,我已经把印记之力给你了。利用攻击来附着印记（$i4/$i5）,orb_objectives_tut_1_addmarks,Objectives_Tutorial_addmarks
+Apply the new ability,使用新的能力,orb_objectives_tut_2_skill,Objectives_Tutorial_skill
+Finish off the marked target with an ability $i4/$i5,用能力来消灭带着印记的靶子（$i4/$i5）,orb_objectives_tut_3_killmarkedtarget,Objectives_Tutorial_killmarkedtarget
+And again! Apply marks and use abilities to really harm $i4/$i5,再来！附着印记并用能力来破坏它（$i4/$i5）,orb_objectives_tut_4_again,Objectives_Tutorial_again
+"Okay, call me to a position",好了，呼唤我到一个位置,orb_objectives_tut_5_callmetopos_singleplayer,Objectives_Tutorial_callmetopos_singleplayer
+"Okay all, call me to a position $i4/$i5",好了大家，呼唤我到一个位置（$i4/$i5）,orb_objectives_tut_5_callmetopos_multiplayer,Objectives_Tutorial_callmetopos_multiplayer
+Activate the Shrines $i4/$i5,激活神坛 $i4/$i5,orb_objectives_tut_6_activateshrines,Objectives_Tutorial_activateshrines
+Use the Healing Shrine to restore health,利用治愈神坛来恢复生命,orb_objectives_tut_7_healshrine,Objectives_Tutorial_healshrine
+Activate the Shrines $i4/$i5,激活神坛（$i4/$i5）,objective_activator_3shrines,Objectives_Chamber1_Activator
+Kill Swarmers $i4/$i5,消灭蜂拥者（$i4/$i5）,objective_activator_killSwarmers,Objectives_Chamber1_Activator
+Defeat Morgrul the Swarmer King,击败蜂拥者之王，莫格鲁,objective_activator_defeatMorgrul,Objectives_Chamber1_Activator
+Kill all enemies $i4,消灭所有敌人（$i4）,objective_activator_killEnemies,Objectives_Chamber1_Activator
+Activate the Shrines $i4/$i5,激活神坛（$i4/$i5）,objective_activator_activateShrines,Objectives_Chamber1_Activator
+Kill all enemies,消灭所有敌人,objective_vandalism_killEnemies,Objectives_Chamber1_Vandalism
+Destroy the Statues $i4/$i5,摧毁雕像（$i4/$i5）,objective_vandalism_destroyStatues,Objectives_Chamber1_Vandalism
+Destroy the Statue,摧毁雕像,objective_vandalism_destroyOneStatue,Objectives_Chamber1_Vandalism
+Destroy the spawner shrine,摧毁孵化神坛,objective_tremors_destroyOneShrine,Objectives_Chamber1_Tremors
+Kill the enemies $i4/$i5,消灭敌人（$i4/$i5）,objective_tremors_killEnemies,Objectives_Chamber1_Tremors
+Destroy the spawner shrines $i4/$i5,摧毁孵化神坛（$i4/$i5）,objective_tremors_destroyShrines,Objectives_Chamber1_Tremors
+Kill the Brawler,消灭争斗者,objective_tremors_killOneBrawler,Objectives_Chamber1_Tremors
+Kill the Brawlers $i4/$i5,消灭争斗者（$i4/$i5）,objective_tremors_killBrawlers,Objectives_Chamber1_Tremors
+Destroy the statues $i4/$i5,摧毁雕像（$i4/$i5）,objective_blastoff_destroyStatues,Objectives_Chamber1_BlastOff
+Kill the Cleaver,消灭屠夫,objective_blastoff_killCleaver,Objectives_Chamber1_BlastOff
+Disrupt the mist,扰乱雾气,objective_aslowdeath_disruptMist,Objectives_Chamber1_ASlowDeath
+Kill the Acid Imp,消灭酸液魔精,objective_aslowdeath_killOneImp,Objectives_Chamber1_ASlowDeath
+Kill the Acid Imps: $i4/$i5,消灭酸液魔精（$i4/$i5）,objective_aslowdeath_killImps,Objectives_Chamber1_ASlowDeath
+Kill the Cleaver,消灭屠夫,objective_aslowdeath_killOneCleaver,Objectives_Chamber1_ASlowDeath
+Kill the Cleavers $i4/$i5,消灭屠夫（$i4/$i5）,objective_aslowdeath_killCleavers,Objectives_Chamber1_ASlowDeath
+Defeat Ether Claw,击败以太爪,objective_aslowdeath_defeatClaw,Objectives_Chamber1_ASlowDeath
+Defeat Wrathhoof,击败怒蹄,objective_wrathhoof_defeatWrathHoof,Objectives_Chamber1_WrathHoof
+Kill Wrathhoof,消灭怒蹄,objective_wrathhoof_killWrathHoof,Objectives_Chamber1_WrathHoof
+Activate the Shrines $i4/$i5,激活神坛（$i4/$i5）,objective_linesinthesand_activateShrines,Objectives_Chamber2_LinesInTheSand
+Activate the Plate,激活金属板,objective_linesinthesand_activateOnePlate,Objectives_Chamber2_LinesInTheSand
+Activate the Plates $i4/$i5,激活金属板（$i4/$i5）,objective_linesinthesand_activatePlates,Objectives_Chamber2_LinesInTheSand
+Survive for $i4 seconds,存活$i4秒,objective_linesinthesand_survive,Objectives_Chamber2_LinesInTheSand
+Get to the Blood Banner,到达血色旗帜处,objectives_powercrystal_bloodBanner,Objectives_Chamber2_PowerCrystal
+Challenge: Get to the Challenge Banner,任务：到达挑战旗帜处,objectives_powercrystal_challengeBanner,Objectives_Chamber2_PowerCrystal
+Cross the bridge,穿过桥梁,objectives_revenge_crossBridge,Objectives_Chamber2_Revenge
+Bomb the Statues $i4/$i5,炸毁雕像（$i4/$i5）,objectives_revenge_bombStatues,Objectives_Chamber2_Revenge
+Fill up the Time Plate,踩满时间踏板,objectives_speedorcaution_fillTimePlate,Objectives_Chamber2_SpeedOrCaution
+Get to the Blood Banner,到达血色旗帜处,objectives_speedorcaution_bloodBanner,Objectives_Chamber2_SpeedOrCaution
+Destroy the Statue,摧毁雕像,objectives_speedorcaution_destroyStatue,Objectives_Chamber2_SpeedOrCaution
+Stand on the pressure plate $i4/$i5,站在压力板上（$i4/$i5）,objectives_speedorcaution_pressurePlate,Objectives_Chamber2_SpeedOrCaution
+Kill the Taurus $i4/$i5,消灭敌人（$i4/$i5）,objectives_runforcover_killTaurus,Objectives_Chamber2_RunForCover
+Kill the Brawlers $i4/$i5,消灭争斗者（$i4/$i5）,objectives_runforcover_killBrawlers,Objectives_Chamber2_RunForCover
+Disrupt the Beam $i4/$i5,打断光束（$i4/$i5）,objectives_runforcover_disruptBeam,Objectives_Chamber2_RunForCover
+Overcharge the Beam $i4/$i5,让光束过载（$i4/$i5）,objectives_runforcover_overchargeBeam,Objectives_Chamber2_RunForCover
+Disrupt the Beam again $i4/$i5,再次打断光束（$i4/$i5）,objectives_runforcover_disruptBeamAgain,Objectives_Chamber2_RunForCover
+Disrupt the Beam one last time $i4/$i5,最后一次打断光束（$i4/$i5）,objectives_runforcover_disruptBeamLast,Objectives_Chamber2_RunForCover
+Cross the bridge,穿过桥梁,objectives_warlock_crossBridge,Objectives_Chamber2_Warlock
+Defeat Slarth,击败斯拉思,objectives_warlock_defeatSlarth,Objectives_Chamber2_Warlock
+Cleanse the Shrines $i4/$i5,净化神坛（$i4/$i5）,objectives_infestation_cleanseShrines,Objectives_Chamber3_Infestation
+Defeat the Warlock,击败术士,objectives_infestation_DefeatWarlock,Objectives_Chamber3_Infestation
+Defeat the Charger,击败冲撞者,objectives_infestation_DefeatCharger,Objectives_Chamber3_Infestation
+Kill the Taurus,消灭塔卢斯,objectives_mistchargers_killOneTaurus,Objectives_Chamber3_MistChargers
+Kill the Blood Carrier,消灭血包携带者,objectives_mistchargers_killInfestedSwarmer,Objectives_Chamber3_MistChargers
+Kill Taurus $i4/$i5,消灭塔卢斯（$i4/$i5）,objectives_mistchargers_killTaurus,Objectives_Chamber3_MistChargers
+Kill the Cleavers $i4/$i5,消灭屠夫（$i4/$i5）,objectives_wallofdecay_killCleavers,Objectives_Chamber3_WallOfDecay
+Kill the Cleaver $i4/$i5,消灭屠夫（$i4/$i5）,objectives_wallofdecay_killOneCleaver,Objectives_Chamber3_WallOfDecay
+Get to the Blood Banner!,到达血色旗帜处,objectives_wallofdecay_bloodBanner,Objectives_Chamber3_WallOfDecay
+Cleanse the Shrine,净化神坛,objectives_wallofdecay_cleanseShrine,Objectives_Chamber3_WallOfDecay
+Kill the Taurus,消灭塔卢斯,objectives_wallofdecay_killTaurus,Objectives_Chamber3_WallOfDecay
+Kill the Brawlers $i4/$i5,消灭争斗者（$i4/$i5）,objectives_wallofdecay_killBrawlers,Objectives_Chamber3_WallOfDecay
+wall counters $i4,墙壁反击（$i4）,objectives_wallofdecay_wallCounters,Objectives_Chamber3_WallOfDecay
+Wall Speed: $f4,墙壁速度：$i4,objectives_wallofdecay_wallSpeed,Objectives_Chamber3_WallOfDecay
+Fill up the Timed Pressure Plates: $i4/$i5,踩满时间踏板：$i4/$i5,objectives_overgrowth_pressureTimePlates,Objectives_Chamber3_Overgrowth
+Fill up the Timed Pressure Plates: $i4/$i5,踩满时间踏板：$i4/$i5,objectives_threechoices_pressureTimePlates,Objectives_Chamber3_ThreeChoices
+Stand on the Timed Pressure Plate $i4/$i5,站在时间踏板上（$i4/$i5）,objectives_threechoices_standOnPlate,Objectives_Chamber3_ThreeChoices
+Defeat Graw,击败葛洛,objectives_graw_defeatGraw,Objectives_Chamber3_Graw
+Find the correct order,找到正确的顺序,objectives_darkmaze_correctOrder,Objectives_Chamber4_DarkMaze
+Keep the shrines activated $i4/$i5,保持神坛激活（$i4/$i5）,objectives_darkmaze_shrinesActivated,Objectives_Chamber4_DarkMaze
+Get through the maze,穿过迷宫,objectives_darkmaze_passMaze,Objectives_Chamber4_DarkMaze
+Kill the Dark Hunters $i4/$i5,消灭黑暗猎手（$i4/$i5）,objectives_darkmaze_killHunters,Objectives_Chamber4_DarkMaze
+Activate the shrines $i4/$i5,激活神坛（$i4/$i5）,objectives_spiritualarrest_activateShrines,Objectives_Chamber4_SpiritualArrest
+Kill the warlocks $i4/$i5,消灭术士（$i4/$i5）,objectives_spiritualarrest_killWarlocks,Objectives_Chamber4_SpiritualArrest
+Kill the Commander,消灭指挥官,objectives_spiritualarrest_killCommander,Objectives_Chamber4_SpiritualArrest
+Get to the Blood Banner,到达血色旗帜处,objectives_spiritualarrest_bloodBanner,Objectives_Chamber4_SpiritualArrest
+Destroy the Blood Machine,摧毁血腥机器,objectives_bloodmachine_destroyMachine,Objectives_Chamber4_Bloodmachine
+Defeat the Waves $i4/$i5,击败数波敌人（$i4/$i5）,objectives_ratsinamaze_defeatWaves,Objectives_Chamber4_RastInAMaze
+Find a way through the maze,找到通过迷宫的路,objectives_ratsinamaze_travelMaze,Objectives_Chamber4_RastInAMaze
+Light the shrines $i4/$i5,点亮神坛（$i4/$i5）,objectives_ratsinamaze_lightShrines,Objectives_Chamber4_RastInAMaze
+Get to the Blood Banner,到达血色旗帜处,objectives_spikerun_bloodBanner,Objectives_Chamber4_SpikeRun
+Kill all enemies,消灭所有敌人,objectives_spikerun_killEnemies,Objectives_Chamber4_SpikeRun
+Free Balfus!,解放巴尔福斯,freebalfus,Objectives_Mordar
+Light the shrines $i4/$i5,点亮神坛（$i4/$i5）,lightshrines,Objectives_Mordar
+"Defeat Mordar, The One-Legged Mage",击败单腿法师，魔达,killmordar,Objectives_Mordar
+Defeat the Colossi: $i4/$i5,击败巨像：$i4/$i5,killCollosi,Objectives_FinalBoss
+This way.,这边。,orb_chamber1_1ThisWay,Dialog_Chamber1_HoT
+"Remember, you can ask me to follow you with a special call.",记住，你能通过特殊的呼唤来让我跟着你。,orb_chamber1_1FollowCall,Dialog_Chamber1_HoT
+"Welcome, Gladiators, to the hall of Trials! <t>*</t>Within each of the Chambers, you will face trials of deadly combat – and eventually, its guardian.",欢迎来到试炼大厅，角斗士！<t>4</t>在这里的每个房间，你都将面对致命战斗的试炼——并最终面对它的守护者。,orb_chamber1_1IntroOfChamber1,Dialog_Chamber1_HoT
+Let us start with this one.,让我们从这开始吧。,orb_chamber1_1LetsStart,Dialog_Chamber1_HoT
+"This we call the Preparation Room. The room between rooms. <t>5</t>Here you can change your battle gear, and prepare strategies.",我们称这里为准备室。房间之间的房间。<t>5</t>你能在这里更换你的装备，并筹划接下来的策略。,orb_chamber1_1PrepRoom,Dialog_Chamber1_HoT
+"Get ready, I’ll be sure to tell you what needs doing.",去做准备，我之后会把你要做的事情告诉你的。,orb_chamber1_2FirstTrial,Dialog_Chamber1_HoT
+"Well done – your progress is remarkable. <t>*</t>But beware, Wrathhoof will not be this easy - and he will not go easy on you. Understand? Good.",干得漂亮——你的进步非常明显。<t>3.8</t>不过要注意，面对怒蹄时可不会这么简单——他不会让你太好过的。懂了吗？很好。,orb_chamber1_2WellDone,Dialog_Chamber1_HoT
+"Very good, keep this up and you just might ..",非常好，保持这个状态，你也许……,orb_chamber1_2Victory,Dialog_Chamber1_HoT
+Just. Ignore him. Wrathhoof has forgotten where he came from - <t>*</t> - forgotten the meaning of honor. Most of the new Guardians have...,别管他。怒蹄已经忘记自己来自哪里——<t>5.7</t>——忘记荣耀的意义了。新的守护者大多已经……,orb_chamber1_2DontWorry,Dialog_Chamber1_HoT
+"Your ferocity is impressive! Keep it up, and you may yet bring honour to your tribe.",你的狠样真让人难忘！保持这个状态，你或许能把荣耀带回自己的部落。,orb_chamber1_3Victory,Dialog_Chamber1_HoT
+You have beaten enough Trials! You have earned the right to face Wrath -,你已经通过足够多的试炼了！你有资格面对怒——,orb_chamber1_4Victory,Dialog_Chamber1_HoT
+Curse him twice. Were he not a Guardian I would...,吊他两次。他要不是守护者，我就……,orb_chamber1_4CurseHim,Dialog_Chamber1_HoT
+"Go - face him, if you're ready. <t>*</t>However, know that besting a trial again, but with better results, can increase your power -<t>*</t>- and it just might improve your odds.",去吧——准备好了就去面对他吧。<t>4</t>不过，你要知道以更优异的成绩再次战胜以往的试炼能增强你的力量——<t>7.1</t>——以及提高你的胜率。,orb_chamber1_4ImproveOdds,Dialog_Chamber1_HoT
+"Excellent, now you are truly ready to face the Guardian of this Chamber.",很好，现在你已经真正准备好面对这间房的守护者了。,orb_chamber1_5Victory,Dialog_Chamber1_HoT
+"Haah, he doesn't suspect anything.",哈啊，他一点都没有怀疑。,orb_chamber1_5DoesntSuspect,Dialog_Chamber1_HoT
+"The next chamber awaits you - but tread with care. I know its guardian personally... <t>*</t>and your fight, I’m afraid, has only just begun...",下一间房正等着你——不过去的时候小心点。我个人是知道它的守护者是谁的……<t>5.5</t>而且我担心你的战斗，只是刚刚开始……,orb_chamber1_5Chamber2Awaits,Dialog_Chamber1_HoT
+You think you've done enough to impress me? Pathetic! <t>*</t>You will die before I pass you – just like your ancestors did before you!,你觉得自己很厉害？真可悲！<t>5.3</t>在我给你合格前你就会死掉——就跟你的祖先一样！,WH_chamber1_Unimpressed,Dialog_Chamber1_HoT
+You think you've bested my Trials - Hah! <t>*</t>You think you're as strong as me? You think you're ready? I went easy on you!,你觉得自己已经战胜了我的试炼——哈！<t>3.9</t>你觉得自己和我一样厉害？你觉得自己已经准备好了？那是我没对你下重手！,WH_chamber1_Taunt,Dialog_Chamber1_HoT
+"Your death belongs to me, and me alone – <t>*</t> – come before me! I'll show you a true challenge!",你的死亡是属于我的，我一个人的—— <t>4.8</t>——到我这来，我会让你见识下真正的挑战！,WH_chamber1_Comebeforeme,Dialog_Chamber1_HoT
+"Thank you for playing this demonstration of FORCED! Remember, you can re-play the previous Trials.",感谢你游玩《强迫》的Demo！别忘了，你可以重玩前面的试炼。,TM_chamber1_DEMO,Dialog_Chamber1_HoT
+Swarmers have corrupted these once great arenas.,蜂拥者破坏了这些曾经辉煌的角斗场。,activator_swarmer_flavor,Dialog_Chamber1_Activator
+"Remember, a Marked enemy is a vulnerable enemy.",别忘了，带有印记的敌人更加脆弱。,activator_markhint3,Dialog_Chamber1_Activator
+"Here, you fight or you die.",在这里，你不战则亡。,activator_fight_flavor,Dialog_Chamber1_Activator
+"Your first trial is about to begin, stay calm and listen to my instructions... <t>*</t> and you just might live through it.",你的第一个试炼马上要开始了，保持安静，听我说明……<t>6.2</t>你也许需要靠它来活下去。,activator_begin,Dialog_Chamber1_Activator
+Keep an eye on that hole. You can always be sure that danger lurks in such darkness.,眼睛注意那边的洞。无论什么时候你都可以认为危险就潜藏在这样黑暗的地方。,activator_thatHole,Dialog_Chamber1_Activator
+Morgrul is approaching! This is what you've been training for.,莫格鲁要来了！你就是为此做的训练。,activator_morgrulApproaching,Dialog_Chamber1_Activator
+Maybe you are not as weak as you first appeared.,也许你已经不像刚来时那么弱了。,activator_cheer,Dialog_Chamber1_Activator
+A big horde is approaching.,大批敌人正在靠近。,vandalism_horde_warning,Dialog_Chamber1_Vandalism
+Get ready.,做好准备。,vandalism_getready,Dialog_Chamber1_Vandalism
+"Be careful when using this shrines power, for your own sake.",为了你自己的安全，小心利用这些神坛的力量。,vandalism_bomb_tip,Dialog_Chamber1_Vandalism
+Here they come!,他们来了！,vandalism_theycome,Dialog_Chamber1_Vandalism
+Each statue takes 38 days to sculpt. A Gladiator takes 20-odd years.. <t>*</t> Guess which one is in short supply.,每尊雕像需要38天来雕刻。一个角斗士需要20多年来培养……<t>6.4</t>猜猜看哪个更短缺。,vandalism_38days,Dialog_Chamber1_Vandalism
+"Excellent! One statue left, show me what you can do!",很好！只剩一尊雕像了，证明给我看你能行！,vandalism_oneleft,Dialog_Chamber1_Vandalism
+"Good, focus on mastering my power. It will be needed later.",很好，集中精力掌握我的力量。之后会有用的。,vandalism_mypower,Dialog_Chamber1_Vandalism
+"The power contained in these shrines can easily shatter stone. Or bones, for that matter. <t>*</t> Go ahead, try it on that statue over there.",这些神坛所蕴含的力量能轻易粉碎石头。同样的还有骨头。<t>6.4</t>继续，用那边的雕像试试看。,vandalism_stoneOrBones,Dialog_Chamber1_Vandalism
+Destroying statues like this is designed to test our ability to work together.,像这种摧毁雕像是设计就是用来测试我们的合作能力的。,vandalism_testTeamwork,Dialog_Chamber1_Vandalism
+These nests produce swarmers until we get rid of them.,这些巢穴在被我们铲除前会一直孵化出蜂拥者。,tremors_spawner_tip,Dialog_Chamber1_Tremors
+Use the Shockwave Shrine to effectively deal with many enemies.,利用震波神坛能有效地消灭大量敌人。,tremors_shockwave_tip,Dialog_Chamber1_Tremors
+"The longer you leave them, the more dangerous they'll get.",你放置它们越久，它们就会变得越危险。,tremors_longerleave,Dialog_Chamber1_Tremors
+"Memorize what these look like, strike them down, wherever you see them.",记住这些东西的样子，一见到就要把它们干掉。,tremors_memorize,Dialog_Chamber1_Tremors
+"Well done, you're getting the hang of this!",干得不错，你真是越来越上手了！,tremors_wellDone,Dialog_Chamber1_Tremors
+This shrine will make you faster.. but only for a while. True skill comes from within.,这座神坛能让你变快……但只能持续一段时间。真正的技能源自内在。,blastoff_haste_tip,Dialog_Chamber1_BlastOff
+You must be very careful when I am volatile. Narrow spaces can prove deadly.,当我变得易爆时你得非常小心。狭窄的空间会变得非常致命。,blastoff_bomb_tip,Dialog_Chamber1_BlastOff
+"These barriers block your path, but enemies and - spirits - have no trouble crossing them.",这些屏障挡住了你的路，但敌人和——精神体——能无障碍穿过它们。,blastoff_playerbarriers,Dialog_Chamber1_BlastOff
+A Cleaver is coming. Keep your wits about you!,屠夫要来了。保持警惕！,blastoff_cleaver_warning,Dialog_Chamber1_BlastOff
+Remember to always keep an eye on your surroundings!,别忘了要时刻关注周围的环境！,blastoff_surroundings,Dialog_Chamber1_BlastOff
+These Acid Imps are honorless cowards.,这些酸液魔精是卑鄙的胆小鬼。,slowdeath_imp_flavor,Dialog_Chamber1_SlowDeath
+The spit from the Acid Imps is so strong it can knock one off balance.,酸液魔精的唾液非常强力以至于它能打破人的平衡。,slowdeath_imp_warning,Dialog_Chamber1_SlowDeath
+"Try your best to dodge the spit from the Acid Imps, or you will regret it.",尽可能躲开酸液魔精的唾液，不然你会后悔的。,slowdeath_imp_tip,Dialog_Chamber1_SlowDeath
+"Against Acid Imps, you will hone your reflexes or die.",在对抗酸液魔精时，你要是不磨练反应就会死。,slowdeath_imp_anothertip,Dialog_Chamber1_SlowDeath
+The Mist will cripple even the greatest warriors.,即使是最强的战士遇到雾气也会变成跛子。,slowdeath_mist_warning,Dialog_Chamber1_SlowDeath
+Letting the Mist get out of hand is unwise.,让雾气脱离控制是不明智的。,slowdeath_mist_tip,Dialog_Chamber1_SlowDeath
+"Prepare yourselves for the final push, remember all you've been taught!",准备好面对最后的攻势，别忘了之前教给你的那些！,wrathhoof_finalpush,Dialog_Chamber1_WrathHoof
+Maintaining your focus is important.,保持精力集中非常重要。,wrathhoof_stomp1_tip,Dialog_Chamber1_WrathHoof
+Try to keep calm when he does that.,在他做那件事时要保持不动。,wrathhoof_stomp2_tip,Dialog_Chamber1_WrathHoof
+Stand still to maintain your balance.,站着别动，保持你的平衡。,wrathhoof_stomp3_tip,Dialog_Chamber1_WrathHoof
+"I’ve been wishing to defeat you for decades, you damnable beast!",我几十年前就想打败你了，你头可恶的野兽！,wrathhoof_flavor,Dialog_Chamber1_WrathHoof
+"Remember, staying calm is the key!",别忘了，保持不动是关键！,wrathhoof_stomp_warning,Dialog_Chamber1_WrathHoof
+Remember that brute force is not always the answer.,别忘了暴力不总是答案。,wrathhoof_flavor_bruteforce,Dialog_Chamber1_WrathHoof
+Don’t let him catch you.,别让他抓住你。,wrathhoof_charge_tip,Dialog_Chamber1_WrathHoof
+Beware of his minions as well.,也要注意他的手下。,wrathhoof_swarmer_warning,Dialog_Chamber1_WrathHoof
+Swarmers!,是蜂拥者！,wrathhoof_swarmers,Dialog_Chamber1_WrathHoof
+This time you will go down!,这次你会倒下！,wrathhoof_godown,Dialog_Chamber1_WrathHoof
+"Contain your rage Wrathhoof, this is not what our master wishes.",收回你的怒气，怒蹄，这不是我们主人希望的。,wrathhoof_containrage,Dialog_Chamber1_WrathHoof
+"After countless fights I remain unbeaten, what hope have you?",历经无数战斗，我自岿然不败，你又有何希望呢？,wrathhoof_WH_Countless_fights,Dialog_Chamber1_WrathHoof
+Your shiny bauble won't save you from my wrath!,你那闪亮的小装饰是无法从我的愤怒中拯救你的！,wrathhoof_WH_Shinybauble,Dialog_Chamber1_WrathHoof
+Pathetic!,可悲啊！,wrathhoof_WH_Pathetic1,Dialog_Chamber1_WrathHoof
+Pathetic!,可悲啊！,wrathhoof_WH_Pathetic2,Dialog_Chamber1_WrathHoof
+Squashed like a bug!,像虫子一样被踩死吧！,wrathhoof_WH_Squashedbug,Dialog_Chamber1_WrathHoof
+Ready to take the bull by the horns?!,准备好庖丁解牛了吗？！,wrathhoof_WH_Bullbyhorns,Dialog_Chamber1_WrathHoof
+Bah! It is the only answer!,呸！这就是唯一的答案！,wrathhoof_WH_StrengthAnswer,Dialog_Chamber1_WrathHoof
+Let us see if you can even get to me!,就让我见识下你能不能来到我跟前！,wrathhoof_WH_gettome,Dialog_Chamber1_WrathHoof
+"Cease! By the rules of the arena I declare the gladiators to be victorious. <t>*</t>Grant them your blessing Wrathhoof, and then prepare for the next group!",住手！根据角斗场的规则，我宣布角斗士胜出。<t>5.5</t>把你的祝福献给他们，怒蹄，然后为下一组作准备！,wrathhoof_Orb_Ceasefight,Dialog_Chamber1_WrathHoof
+Impossible! I will not be bested by tribesmen scum! <t>*</t>I will not accept this judgement!,不可能！我是不会被部落人渣战胜的！<t>6.1</t>我是不会接受这次裁决的！,wrathhoof_WH_enrage,Dialog_Chamber1_WrathHoof
+"I command you to stop, Guardian! Have you no honor?!",我命令你停下，守护者！你难道没有荣耀感吗？！,wrathhoof_Orb_Honor,Dialog_Chamber1_WrathHoof
+I don’t give a damn about your precious honor. I’ll squash these weaklings!  I'll show them -,我才不在乎你那珍贵的荣耀。我要踩死这些弱小的人！我要让他们见识下——,wrathhoof_WH_NoHonor,Dialog_Chamber1_WrathHoof
+You must fight! Fight for your lives!,你必须战斗了！为了活下去！,wrathhoof_Orb_fightforlives,Dialog_Chamber1_WrathHoof
+What.. what have we done?,什么……我们做了什么？,wrathhoof_Orb_Whathavewedone,Dialog_Chamber1_WrathHoof
+"Killing a Guardian is unthinkable! <t>*</t>The Master will surely have us all put to death - you, your tribe... even me. <t>*</t>Justice matters not to him.. *we* do not matter.",杀死守护者的后果是不堪设想的！<t>3.1</t>主人肯定会杀死我们所有人——你，你的族人……甚至是我。 <t>8.8</t>正义对他而言毫无所谓……*我们*对他而言也毫无所谓。,wrathhoof_Orb_Weregonnadie,Dialog_Chamber1_WrathHoof
+We must move quickly. We must prove that we are valuable - profitable <t>*</t> - before someone finds out what we've done.,我们得赶紧走。我们必须证明自己是有用的——有价值的。<t>6</t>趁别人还没发现前。,wrathhoof_Orb_quickly,Dialog_Chamber1_WrathHoof
+"Come, The Master will be expecting us in the Hall.",过来，主人会在大厅中等我们的。,wrathhoof_Orb_Tothehall,Dialog_Chamber1_WrathHoof
+"You return - alive? <t>4</t>I will not lie, tribesmen - nobody has passed with Wrathhoof's blessing in... some time, now. Perhaps you might even prove profitable.",你活着——回来了？<t>4</t>我不会骗人，部落人——没人能够带着怒蹄的祝福通过试炼的……也许你能证明自己是有价值的。,hot_themaster_youreturn,Dialog_Chamber1_TheMaster
+"Your Tribe on the other hand, has been nothing but a waste of space. <t>*</t>Disappoint me, and I might have to .. replace them.",从另一方面说，你的部落除了浪费空间外就没什么用了。<t>5.8</t>他们让我失望至极，我可能得……换掉他们。,hot_themaster_wasteofspace,Dialog_Chamber1_TheMaster
+This Chamber has broken more Gladiators than I care to count. In body and in spirit.,死在这间房里的角斗士已经多到我数不清了。不管是身体还是精神。,orb_chamber2_Intro,Dialog_Chamber2_HoT
+"The Guardian of this chamber calls himself Slarth – though he was not born to such a name. <t>*</t>He was once like you, you know – but now...",这间房里的守护者称自己为斯拉思——虽然他不是一出生就叫这个名字。<t>7.9</t>他以前跟你一样，你懂的——不过现在……,orb_chamber2_Trial1Victory1,Dialog_Chamber2_HoT
+"... now, he's not.",……现在，他已非角斗士。,orb_chamber2_Trial1Victory2,Dialog_Chamber2_HoT
+We must watch our tongues in here. Slarth is always listening.,我们在这说话得小心。斯拉思一直在监听我们。,orb_chamber2_Trial3Victory,Dialog_Chamber2_HoT
+We must not linger here. It's only a matter of time before the Master finds out what we've done.,我们不能在这逗留了。在主人发现我们的事前只有一点时间。,orb_chamber2_Trial5Victory,Dialog_Chamber2_HoT
+"The Chamber is complete, the exit is open.<t>*</t> Of course, if you want to add insult to injury, one puzzle still remains. <t>*</t> I believe it's one of.. his favorites.",这间房完成了，出口已经打开。<t>4.6</t>当然，如果你想在伤口上来把盐的话，这里还留有道谜题。 <t>5.8</t>我相信那是……他最喜欢的一个。,orb_chamber2_Trial6Victory,Dialog_Chamber2_HoT
+"I suppose it's only right that you know.  <t>*</t> Slarth was... an old pupil of mine. I mentored him like I mentor you now. <t>*</t> I led him through the trials. I saw him fight, I saw him live. Now I've seen him die.",我想你有权利知道这件事。 <t>3.1</t>斯拉思是……我过去的弟子。就像我现在指导你一样我过去也指导过他。 <t>7.9</t>我引导他通过试炼。看着他战斗，看着他存活。现在看着他死亡。,orb_chamber2_SlarthDefeated,Dialog_Chamber2_HoT
+You must press on. The next chamber awaits - and time is not on our side.,你必须前进。下间房正在等你——且时间不站在我们这一边。,orb_chamber2_NextChamber,Dialog_Chamber2_HoT
+Balfus... it's been a while.,巴尔福斯……好一阵子没见了。,Slarth_chamber2_ItsBeenAWhile,Dialog_Chamber2_HoT
+And who is it you bring with you? Did you finally manage to sneak someone past Wrath Hoof? You must tell us all about it.,以及你把谁带来了？你终于成功让人偷偷溜过怒蹄了？你得把这件事告诉我们大家。,Slarth_chamber2_AndWhoDoYouBring,Dialog_Chamber2_HoT
+We'll see you all soon... Try not to die before then..,我们很快就会再见的……在此之前你就努力别死吧……,Slarth_chamber2_SeeYouSoon,Dialog_Chamber2_HoT
+"You're awfully quiet, Balfus... Are you keeping something from us?",你太安静了，巴尔福斯……你是不是隐瞒了我们什么？,Slarth_chamber2_AwfullyQuiet,Dialog_Chamber2_HoT
+"It isn’t like you to keep a secret, Balfus. This is ... most puzzling.",保守秘密可不像你的行为，巴尔福斯。这……着实令人费解。,Slarth_chamber2_NotLikeYou,Dialog_Chamber2_HoT
+"We now know what you did, Balfus. You and your filthy charge. Come to our chambers. We need to... talk.",我们现在都知道你做了什么，巴尔福斯。你和你的臭弟子。来我们房间。我们需要……谈谈。,Slarth_chamber2_KnowWhatYouDid,Dialog_Chamber2_HoT
+"You Killed a Chamber Guardian? Balfus, we must admit... we didn't think you'd have that in you. <t>*</t> Tell us... did you do it for your charge? For vengeance? <t>*</t> Or maybe... for satisfaction?",你杀了房间守护者？巴尔福斯，我们得承认……我们都不知道你有那样的能力。<t>8.2</t>告诉我们……你这样做是为了你的弟子吗？ 为了复仇？<t>5.9</t>又或是……为了自我满足？,Slarth_chamber2_KilledGuardian,Dialog_Chamber2_HoT
+It matters not. We're going to tell the master – and then we're going to watch you die. Perhaps he'll feed you to all Graw?,无所谓了。我们要告诉主人——然后我们要看着你死。也许他会把你喂给所有葛洛？,Slarth_chamber2_MattersNot,Dialog_Chamber2_HoT
+"Oh, that would be... delightful. But first, old friend... We're going to teach you your place.",哦，那一定会……非常愉悦。但首先，老伙计……我们得让你明白自己的处境。,Slarth_chamber2_Delightful,Dialog_Chamber2_HoT
+"In this trial you are bound to me, so keep close.",这项试炼你我是联系在一起的，所以贴紧点吧。,orb_chamber2_BoundToMe,Dialog_Chamber2_Flavor
+It has been a while since I've seen this barren mountainside.,已经好一阵子没来看这里的贫瘠山坡了。,orb_chamber2_Barrens,Dialog_Chamber2_Flavor
+"These shrines can move, but not by physical strength. <t>*</t> A more.. spiritual touch is needed.",这些神坛是能够移动的，但用的不是物理上的力量。<t>4.7</t>而是需要更多的……精神接触。,orb_chamber2_ShrineMove,Dialog_Chamber2_Flavor
+"These creatures are very unstable, you better keep a safe distance.",这些怪物很不稳定，你最好与它们保持安全距离。,orb_chamber2_UnstableCreatures,Dialog_Chamber2_Flavor
+"Send me on my way with the moving shrine, you can always call upon me.",把我送到移动神坛那吧，你随时都能召唤我。,orb_chamber2_SendMeOnMyWay,Dialog_Chamber2_Flavor
+The energy from these powerful crystals will incinerate your kin only.,这些强力水晶发出来的能量只会烧死你们。,orb_chamber2_PowerCrystal,Dialog_Chamber2_Flavor
+That shrine I've actually never seen before.. <t>*</t> Must be a new addition for this season.,老实说我之前从没见过那种神坛……<t>4.2</t>一定是这个季度新添加的。,orb_chamber2_Tesla_intro_joke,Dialog_Chamber2_Flavor
+Remember to always keep an eye on your surroundings!,别忘了要时刻留意周围的情况！,orb_chamber2_surroundings,Dialog_Chamber2_Flavor
+"That's more like it, we're a team now!",我们现在真是越来越像个团队了！,orb_chamber2_teamnow,Dialog_Chamber2_Flavor
+"That's it, keep moving. I think you're starting to get this.",没错，继续前进。我看你是越来越懂了。,orb_chamber2_keepmoving,Dialog_Chamber2_Flavor
+Keep working together!,保持合作！,orb_chamber2_worktogether,Dialog_Chamber2_Flavor
+We're nearing Slarth's own chambers. <t>*</t> You're doing great. Don't give in.,我们快到斯拉思的房间了。<t>2.3</t>你做得很好。不要认输。,orb_chamber2_NearingBoss,Dialog_Chamber2_Flavor
+Slarths challenges have never been known to be fair - nor predictable. <t>*</t> Play along. But be careful.,斯拉思的挑战从来都没有过公平——且无法预测。 <t>5.7</t>暂时附和他吧。不过要小心。,orb_chamber2_SlarthsChallenges,Dialog_Chamber2_Flavor
+A Gladiator needs brains as well as brawn. At least Slarth hasn't forgotten that.,角斗士需要体力，也需要智力。至少斯拉思没有忘记这一点。,orb_chamber2_BrainsAndBrawn,Dialog_Chamber2_Flavor
+When Slarth closes a door.. <t>*</t> You'll just have to find a window.,当斯拉思关闭一扇门时……<t>2.4</t>你必须找到另一扇窗户。,orb_chamber2_Window,Dialog_Chamber2_Flavor
+One misstep here might be your last.,这里走错一步便会万劫不复。,orb_chamber2_Misstep,Dialog_Chamber2_Flavor
+"Very impressive! I already knew the solution of course, but to the best of my knowledge you're the first Gladiators to solve it.<t>*</t> Slarth will not be happy to hear this.",太厉害了！虽然我早已知道答案，但据我所知，你是第一个解决这问题的角斗士。<t>9.7</t>斯拉思听到这事肯定没好脸色。,orb_chamber2_IknewOfcourse,Dialog_Chamber2_Flavor
+What manner of foul sorcery is this?!,这是什么邪术？！,orb_chamber2_Foulsorcery,Dialog_Chamber2_Flavor
+By the Ancestors! Slarth has really outdone himself this time.,以先祖之名！斯拉思这次真的超越自己了。,orb_chamber2_Ancestors,Dialog_Chamber2_Flavor
+"This shrine will be most helpful.<t>*</t> After we've powered it up, it will strike down all enemies who venture too near.",这座神坛会很有帮助。<t>2.8</t>我们启动它后，它就会把所有靠近的敌人都打倒。,orb_chamber2_TeslaShrineHelpful,Dialog_Chamber2_Flavor
+"This seems a simple task.  <t>*</t>But stay on your guard. With Slarth, nothing is ever as simple as it seems.",这任务看似简单。<t>2.2</t>但你还是要保持警惕。有斯拉思在，没什么事是简单的。,orb_chamber2_SimpleTask,Dialog_Chamber2_Flavor
+"Touch the banner to claim victory, ignore all else!",快碰那旗帜来宣告胜利，其它的都别管了！,orb_chamber2_TouchBanner,Dialog_Chamber2_Flavor
+Well done! That one even had me stumped!,做得好！就连我都被那东西给难住了！,orb_chamber2_MeStumped,Dialog_Chamber2_Flavor
+"These statues are beyond your powers! Run, run as fast as you can!",这些雕像的力量远在你之上！快跑，尽全力跑！,orb_chamber2_StatuesRun,Dialog_Chamber2_Flavor
+Careful!,当心！,orb_chamber2_Careful1,Dialog_Chamber2_Flavor
+Watch out!,注意！,orb_chamber2_WatchOut,Dialog_Chamber2_Flavor
+"I knew Slarth, since he was a Gladiator himself. Not unlike you... <t>*</t>Too much has changed since then.",我知道斯拉思，因为他自己就是个角斗士。和你没有区别……<t>6.3</t>那之后有太多事改变了。,orb_chamber2_KnewSlarth,Dialog_Chamber2_Flavor
+I have failed you as a trainer Slarth .. forgive me,身为你的教练我辜负了你，斯拉思……原谅我。,Slarth_chamber2_FailedYou,Dialog_Chamber2_Slarth
+Power is no replacement for Honor!,力量无法取代荣耀！,Slarth_chamber2_PowerHonor,Dialog_Chamber2_Slarth
+Watch yourselves!,当心你自己！,Slarth_chamber2_WatchYourselves,Dialog_Chamber2_Slarth
+Stay clear!,绕开！,Slarth_chamber2_StayClear,Dialog_Chamber2_Slarth
+Get to safety!,到安全的地方去！,Slarth_chamber2_Safety,Dialog_Chamber2_Slarth
+Move away from me!,离开我！,Slarth_chamber2_MoveAway,Dialog_Chamber2_Slarth
+Stay away when he uses his curses on me!,在他对我使用诅咒时离远点！,Slarth_chamber2_StayAway,Dialog_Chamber2_Slarth
+Leave me and run!,别管我，快跑！,Slarth_chamber2_LeaveMe,Dialog_Chamber2_Slarth
+"I know all your tricks, I taught them!",我知道你所有的诡计，是我教他们的！,Slarth_chamber2_YourTricks,Dialog_Chamber2_Slarth
+"You have always been weak, Balfus!",你一直都那么弱，巴尔福斯！,Slarth_chamber2_AlwaysWeak,Dialog_Chamber2_Slarth
+"Power beats Honour, old friend.",力量胜过荣耀，老朋友。,Slarth_chamber2_PowerBeatsHonor,Dialog_Chamber2_Slarth
+Is murder your notion of honour now? Truly you have changed.,杀人就是你现在的荣耀吗？你真的变了。,Slarth_chamber2_MurderHonour,Dialog_Chamber2_Slarth
+Stone to life.. A simple spell for the likes of me.,活石术……对我来说是个简单的法术。,Slarth_chamber2_StoneToLife,Dialog_Chamber2_Slarth
+Rise statue! Defend your master!,起来吧，雕像！保护你的主人！,Slarth_chamber2_RiseStatue,Dialog_Chamber2_Slarth
+"No, hehehehe. You know nothing.",不，呵呵呵呵。你什么都不懂。,Slarth_chamber2_YouKnowNothing,Dialog_Chamber2_Slarth
+"The next chamber was once a lush forest. But like it's Guardian it has.. changed.<t>*</t> Now it is but a bloated, corrupted shadow of it's former self.",下间房曾是郁郁葱葱的森林。不过就像它的守护者一样，那里……也变了。<t>9.8</t>现在那里只有以前残留下来的浮肿且腐败的影子。,orb_chamber3_Intro,Dialog_Chamber3_HoT
+We must fight our way to his chamber and stem the corruption at its source.,我们必须去他的房间，从源头上阻止腐化。,orb_chamber3_2StemCorruption,Dialog_Chamber3_HoT
+"That monster was Graw. If you must fall in battle, do not fall here.  <t>*</t>Too many of your kin already have. Too many have added to his bulk -  <t>*</t> and to his ego.",那头怪物就是葛洛。如果你非得战死，请不要死在这里。<t>9</t>你的族人已经有太多死在这里了。有太多人变成了他的体重——<t>6.7</t>以及他的自负。,orb_chamber3_1FallInBattle,Dialog_Chamber3_HoT
+"You've fought back the corruption, but the source remains. Graw grows hungrier by the minute.",你击退了腐败，但它的源头依然存在。葛洛每过一分钟都会变得更饥饿。,orb_chamber3_Trial4Victory,Dialog_Chamber3_HoT
+You are wise in preparing yourself. This next fight will be a true test of your skill and our bond.,你知道做准备真是非常明智。下场战斗会是测试你技能和我们羁绊的真正试炼。,orb_chamber3_Trial5Victory,Dialog_Chamber3_HoT
+Balfus! How good of you to come visit.,巴尔福斯！你能来真是太好了。,graw_chamber3_1Visit,Dialog_Chamber3_HoT
+Too few make it past Slarth these days... I am positively famished for a good fight! <t>*</t> Please - tell me this group is bigger than the last ones you brought me!,这些日子很少有人能够通过斯拉思……我非常渴望来一场精彩的战斗！<t>10.8</t>拜托你——告诉我你带来的这批人比上一次的要大！,graw_chamber3_1Famished,Dialog_Chamber3_HoT
+"Must you struggle so? Your death is inevitable, and my children hunger. <t>*</t> Why must you make this so hard on us all?",你非得这么挣扎吗？你的死已是无法避免，而且我的孩子还饿着肚子呢。<t>9.4</t>你为什么要弄得我们大家都那么不容易呢？,graw_chamber3_2Struggle,Dialog_Chamber3_HoT
+"Yes... Come to me! I promise you, little tribesmen... it'll be a feast.",没错……来我这里！我向你保证，小部落人……这会是一场盛宴。,graw_chamber3_2Feast,Dialog_Chamber3_HoT
+This healing shrine is infested! Even the shrines are no longer safe here!,这座治愈神坛被感染了！在这里连神坛都不再安全！,orb_infestation_InfestedShrineIntro,Dialog_Chamber3_Infestation
+"These infested shrines will lash out as I cleanse them, stay clear!",这些受感染的神坛会在我们净化时攻击我们，躲开！,orb_infestation_InfestedShrineStayClear,Dialog_Chamber3_Infestation
+"Now get close to it! Once cleansed, the shrine will let loose one last healing burst!",现在靠近它吧！神坛一旦被净化，它就会爆发出最后的治疗波！,orb_infestation_InfestedShrineHealHint,Dialog_Chamber3_Infestation
+Three more to go!,还剩三个！,orb_infestation_3toGo,Dialog_Chamber3_Infestation
+"One left, don't lose your focus!",还剩一个，别走神！,orb_infestation_1Left,Dialog_Chamber3_Infestation
+The corruption of this chamber must be kept in check!,必须控制住这间房的腐化！,orb_infestation_InCheck,Dialog_Chamber3_Infestation
+Graws corruption is not only of the flesh.. This was once a beautiful forest.,葛洛的腐化不止作用于肉体……这里曾经是片美丽的森林。,orb_infestation_GrawsCorruption,Dialog_Chamber3_Infestation
+Getting rid of these Infested Shrines prevent any further corruption.,清掉受感染的神坛以防止进一步腐化。,orb_infestation_PreventCorruption,Dialog_Chamber3_Infestation
+Use their own charge against them!  <t>*</t>There are thicker things in here than their heads.,反过来利用它们的冲刺来对付它们！<t>2.8</t>这里有比它们头更硬的东西。,orb_slowride_ChargeHint,Dialog_Chamber3_SlowRide
+"These Blood Carriers can mend the wounds of their wicked kin, take them out fast!",这些血包携带者能治疗它们邪恶眷属的伤口，要快点处理掉它们！,orb_slowride_BloodCarrier,Dialog_Chamber3_SlowRide
+Graw’s infestation has even created a deadly Blood Mist! Run for your lives!,葛洛的腐化侵袭甚至创造出了致命的血雾！不想死就快跑！,orb_wallofdecay_BloodMist,Dialog_Chamber3_WallOfDecay
+"Keep moving, even the air cannot be trusted in here!",继续前进，在这里连空气都不能相信。,orb_wallofdecay_KeepMoving,Dialog_Chamber3_WallOfDecay
+"Kill this foe quickly, he blocks our way!",快消灭这个敌人，他挡住了我们的路！,orb_wallofdecay_PriorityTarget,Dialog_Chamber3_WallOfDecay
+The infested shrine is Graw's favorite creation.  <t>*</t>How he merged it with a creature I'd rather not know.,受感染的神坛是葛洛最得意的作品。<t>4.3</t>至于他是怎么把它和怪物合在一起的，我情愿不知。,orb_overgrowth_BloodCarrier,Dialog_Chamber3_Overgrowth
+"This trial smells foul beyond all sense. I feel a great corruption, yet I see nothing!",这项试炼的恶臭已超过了其它所有感知。我能感觉到一股巨大的腐败，虽然我还没看到任何东西！,orb_overgrowth_HiddenCorruption,Dialog_Chamber3_Overgrowth
+"Make sure to keep the infestation at bay, or you'll drown under their sheer numbers!",一定要持续压制住腐化的侵袭，不然你会被它庞大的数量给淹没的！,orb_overgrowth_StayInfestation,Dialog_Chamber3_Overgrowth
+Make good use of the infested shrines dying healing burst!,利用好受感染神坛在临死前爆发出的治疗波！,orb_overgrowth_infestedHealHint,Dialog_Chamber3_Overgrowth
+This obstacle will require patience and precisison to overcome!,这次的阻碍需要耐心与细致来解决！,orb_threechoices_LeftRoom,Dialog_Chamber3_ThreeChoices
+"Graw - being the greedy bastard he is, couldn’t decide which death traps he wanted, so he used them all.",葛洛——那个贪心的混蛋不知道要用哪个死亡陷阱，所以他把所有陷阱都用上了。,orb_threechoices_ThreeChoices,Dialog_Chamber3_ThreeChoices
+"Be careful, if the Acid Imps unbalance you at the wrong moment, the beam will catch you!",当心，你要是在错误的时机被酸液魔精打乱了平衡，就会被光束给击中！,orb_threechoices_ImpBeam,Dialog_Chamber3_ThreeChoices
+There are sinister Warlocks in these parts.,这片区域有邪恶的术士。,orb_threechoices_Warlocks,Dialog_Chamber3_ThreeChoices
+"By the Ancestors, he's.. massive!",以先祖之名，他……也太大了！,orb_graw_1HesMassive,Dialog_Chamber3_Graw
+"Fight, fight like you've never fought before!",战斗吧，就像你之前从未战斗过一样！,orb_graw_1Fight,Dialog_Chamber3_Graw
+He's.. stuck!,他被……卡住了！,orb_graw_1HesStuck,Dialog_Chamber3_Graw
+His gluttony knows no bounds.,他饿得无厌。,orb_graw_2HisGluttony,Dialog_Chamber3_Graw
+You are but a symptom of this systems sickness!,你就是这系统疾病里的病症！,orb_graw_2Sickness,Dialog_Chamber3_Graw
+Eat this!,尝尝这个！,orb_graw_2EatThis,Dialog_Chamber3_Graw
+By my power I shall cleanse this place.,我要用我的力量净化此地。,orb_graw_2Cleanse,Dialog_Chamber3_Graw
+We will prevail!,我们会战胜的！,orb_graw_2Prevail,Dialog_Chamber3_Graw
+This used to be such a beautiful glade ..,这里曾是美丽的林中空地……,orb_graw_2OnceBeautiful,Dialog_Chamber3_Graw
+"Yes! Run and fight and flee and hide!  <t>*</t>I'll catch your little tribelings in the end, Balfus... I always do!",哇，哈哈，哈哈！<t>3.2</t>没错！跑吧，打吧，逃吧，躲吧！<t>6.3</t>到最后我都会抓住你的小部落人的，巴尔福斯……我从没失过手！,graw_graw_2Run,Dialog_Chamber3_Graw
+"Stop struggling food, you'll get stringy!",别挣扎了，食物，你会变柴的！,graw_graw_2StopStruggling,Dialog_Chamber3_Graw
+Get In My Belly!,到我肚子里来！,graw_graw_2MyBelly,Dialog_Chamber3_Graw
+My ever-living minions will take care of you.,我那永生的随从会好好关照你的。,graw_graw_2MyMinions,Dialog_Chamber3_Graw
+We .. Regrow!,我们……重新生长！,graw_graw_2Regrow,Dialog_Chamber3_Graw
+My infestation is inevitable.,我的腐化侵袭是无法被阻止的。,graw_graw_2Infestation,Dialog_Chamber3_Graw
+Come little ones. Help your papa Graw.,过来，小家伙。来帮帮你的爸爸葛洛。,graw_graw_2PapaGraw,Dialog_Chamber3_Graw
+Embrace my infestation!,拥抱我的腐化侵袭！,graw_graw_2Embrace,Dialog_Chamber3_Graw
+I shall feast this day!,今天我将大开吃戒！,graw_graw_2Feast,Dialog_Chamber3_Graw
+Let us play .. hide and slay!,让我们来玩……躲杀杀！,graw_graw_2HideAndSlay,Dialog_Chamber3_Graw
+Your corpse will feed my .. progress.,你的尸体将填饱我的……肚子。,graw_graw_2Progress,Dialog_Chamber3_Graw
+Where is the honor? Where is the glory?  <t>*</t>He was never a worthy gladiator – much less a guardian. <t>*</t> But the new master cares not for tradition. It needs to end.,荣耀在哪？荣誉又在哪？<t>4.8</t>他从来都不是个值得敬佩的角斗士——比角斗士差远了。<t>4.2</t>但新主人并不在意传统。必须结束这种状况。,orb_graw_3NoHonor,Dialog_Chamber3_Graw
+"Moon Gore - If you'll stand by my side, we could tear this down – stone by wretched stone! <t>*</t>Come... The road ahead is shortening – but the hardest fights have yet to come. For now, the next chamber awaits.",月血人——如果你站在我这边，我们就能把这东西给拆掉——逐块石头逐块石头地！<t>11</t>过来……虽然前方的路已越来越短——但最艰难的战斗即将到来。<t>7.4</t>而现在，下间房正等着你。,orb_graw_3StandBy,Dialog_Chamber3_Graw
+"What has become of this place?! <t>*</t> Graw was never a worthy Gladiator, much less a Guardian!<t>*</t> The new Master cares not for Tradition. Profits? Hah! <t>5</t> This needs to end! <t>*</t> Come... The road ahead is shortening – but the hardest fights have yet to come. For now, the next chamber awaits.",这地方都成什么样了？！<t>3.1</t>葛洛从来都不是个值得敬佩的角斗士，比角斗士差多了！<t>5.4</t>新主人并不在意传统。利益？哈！<t>6.1</t>必须结束这种状况！<t>3.6</t>过来……虽然前方的路已越来越短——但最艰难的战斗即将到来。<t>7.2</t>而现在，下间房正等着你。,orb_graw_3WhatHasBecome,Dialog_Chamber3_Graw
+Did you honestly think I wouldn't find out?,你真以为我会发现不了吗？,themaster_chamber4_1FindOut,Dialog_Chamber4_HoT
+DID YOU?!,真以为吗？！,themaster_chamber4_1DidYou,Dialog_Chamber4_HoT
+Do you know how much you’ve cost me?!,你知道你让我付出了多少代价吗？,themaster_chamber4_1CostMe,Dialog_Chamber4_HoT
+"This costly debacle ends here. <t>4</t>I have instructed Mordar to end your pitiful lives – <t>5</t> yes Balfus, that includes you.  <t>6</t>You may consider yourself... fired.",这种代价高昂的败北就到此为止吧。<t>4</t>我已经下令让魔达来结束你们那卑微的生命了——<t>5</t>没错，巴尔福斯，包括你。<t>6</t>你可以认为自己已经……被炒了。,themaster_chamber4_1Fired,Dialog_Chamber4_HoT
+Mordar! End their lives! Let loose your experiments!,魔达！去结束他们的生命！把你的实验体放出来！,themaster_chamber4_1LetLoose,Dialog_Chamber4_HoT
+"As you command, my lord and liege!",遵命，我无上的君主！,mordar_chamber4_1AsYouCommand,Dialog_Chamber4_HoT
+"Hahahaha! Welcome to my Chamber, watch your step! Hahahaha!  <t>8</t>The set is set, the show is starting... think you got what it takes to see how it ends?",哈哈哈哈！欢迎来到我的房间，当心你脚下吧！哈哈哈哈！<t>8</t>东西已经设置好了，演出即将开始……想你已经知道需要什么才能看到它如何结束？,mordar_chamber4_2WatchYourStep,Dialog_Chamber4_HoT
+"Hehehehe. Good, Excellent – Go on,  <t>6</t>the show has just begun – a shame if you would die before the end! Hahaha!",呵呵呵呵。很好，很棒——继续，<t>6</t>演出才刚刚开始——你要是在中途死掉的话就太可惜了！哈哈哈！,mordar_chamber4_3TheShow,Dialog_Chamber4_HoT
+"And now... the crescendo! In the right corner – Balfus and his human lackeys! <t>8</t> In the left... me! Hahhaha! What more, could an audience ask for?",而现在……就是高潮！右边角落——是巴尔福斯和他的人类走狗！<t>8</t>而左边……则是我！哈哈哈！这阵容观众还会有什么不满吗？,mordar_chamber4_4Crescendo,Dialog_Chamber4_HoT
+Tortured screams still linger in these very stones. This tower has seen the end of many..,那些痛苦的尖叫依然回荡在这些石头中。这座塔已经见证过太多人的末路了……,orb_chamber4_Trial1Victory,Dialog_Chamber4_HoT
+"You're making good progress! But don't relax yet. Stay focused, stay alive.",你已经取得了很大的进步！不过别掉以轻心，保持专注，不要送死。,orb_chamber4_Trial3Victory,Dialog_Chamber4_HoT
+"Good, you'll need every bit of practice you can get if you're to fight The Master's favored Guardian.",很好，如果你想和主人最喜欢的守护者开战的话，那你不能错过任何一项练习。,orb_chamber4_Trial5Victory,Dialog_Chamber4_HoT
+These halls are filled with death and darkness.. stay alert.,这些大厅充满了死亡与黑暗……保持警惕。,orb_chamber4_DeathAndDarkness,Dialog_Chamber4_DarkMaze
+"Be careful, the shadows have teeth..",小心点，危机的獠牙就潜藏在阴影里……,orb_chamber4_Shadows,Dialog_Chamber4_DarkMaze
+Watch out!,当心！,orb_chamber4_WatchOut,Dialog_Chamber4_DarkMaze
+"Be careful, these grinders are just as dangerous as they look.",小心点，这些尖刺装置正如它们外表一样危险。,orb_chamber4_GrinderHint,Dialog_Chamber4_DarkMaze
+"Keep my light close, enemies can come from any angle in here.",紧贴着我的光，这里的敌人会从各个方向袭来。,orb_chamber4_KeepLightClose,Dialog_Chamber4_DarkMaze
+"Good, keep it up and we'll have this solved in no time!",很好，继续保持，我们很快就能解决这个问题！,orb_chamber4_SolvedInNoTime,Dialog_Chamber4_DarkMaze
+"Mordar is a powerful mage, capable of manipulating the spirit realm and my connection to you",魔达是个强力的法师，他能控制精神领域以及你我之间的联系。,orb_chamber4_PowerfulMage,Dialog_Chamber4_SpiritualArrest
+One more down!,再来一个就解决了！,orb_chamber4_OneMoreDown,Dialog_Chamber4_SpiritualArrest
+Just one Warlock stands between us and victory! Truly I pity him.,只有一个术士站在我们与胜利之间！我真为他感到可怜。,orb_chamber4_OneWarlockLeft,Dialog_Chamber4_SpiritualArrest
+"Come on, the rest of them should be nearby!",走吧，剩下的应该就在附近！,orb_chamber4_RestNearby,Dialog_Chamber4_SpiritualArrest
+"Take care here, the Warlocks are not as stupid as the other enemies",在这里要小心，术士可不会像其它敌人那么傻。,orb_chamber4_Warlocks,Dialog_Chamber4_SpiritualArrest
+Mordar cares not what is caught in his traps. All death pleases him.,魔达根本不关心他的陷阱抓到了什么。任何死亡都能取悦他。,orb_chamber4_Traps,Dialog_Chamber4_SpiritualArrest
+"I know not for what nefarious purpose Mordar has created this device, but I know destroying it will hinder his plans!",虽然我不知道魔达创造这台装置有什么罪恶目的，但我知道摧毁它能阻碍他的计划！,orb_chamber4_HinderHisPlans,Dialog_Chamber4_BloodMachine
+The dark hunters shroud themselves in magical darkness that can only be pierced by magic,黑暗猎手会用黑暗魔法裹住自己，只有魔法才能打穿它。,orb_chamber4_MagicalDarkness,Dialog_Chamber4_BloodMachine
+A miniature Graw?! Could this machine be creating them? We must destroy it!,微型葛洛？！是这台机器创造了他们？我们必须摧毁它！,orb_chamber4_VolatileMaster,Dialog_Chamber4_BloodMachine
+We must choose a path; Foes or traps - danger lies either way.,我们必须选出一条路；敌人或陷阱——不管走哪边都会有危险。,orb_chamber4_ChoosePath,Dialog_Chamber4_RatsInAMaze
+It's a trap!,是圈套！,orb_chamber4_ATrap,Dialog_Chamber4_RatsInAMaze
+"Which way now? I sense something ahead, be careful!",现在走哪条路？我感觉到前方有什么东西，小心点！,orb_chamber4_WhichWay,Dialog_Chamber4_RatsInAMaze
+Like rats in a maze.,就像是迷宫里的老鼠。,orb_chamber4_LikeRats,Dialog_Chamber4_RatsInAMaze
+Keep close to me! Ancestors alone know what lurks in this darkness.,贴紧我！只有落单的祖先才知道黑暗里潜藏着什么。,orb_chamber4_KeepCloseDarkness,Dialog_Chamber4_SpikesRun
+This trial will test both your speed and your wits. You should have both by now.,这项试炼会测试你的速度和头脑。这两项你现在应该都要有。,orb_chamber4_SpeedAndWits,Dialog_Chamber4_SpikesRun
+Keep running!,继续跑！,orb_chamber4_KeepRunning,Dialog_Chamber4_SpikesRun
+"Come on, come on!",快，快！,orb_chamber4_ComeOn1,Dialog_Chamber4_SpikesRun
+Come on!,快！,orb_chamber4_ComeOn2,Dialog_Chamber4_SpikesRun
+Hahahaaaha,哈哈哈哈哈哈！,mordar_chamber4_Laughter1,Dialog_Chamber4_Various
+Hahahaaaha,哈哈哈哈哈哈！,mordar_chamber4_Laughter2,Dialog_Chamber4_Various
+Hahahaaaha,哈哈哈哈哈哈！,mordar_chamber4_Laughter3,Dialog_Chamber4_Various
+Hahahaaaha,哈哈哈哈哈哈！,mordar_chamber4_Laughter4,Dialog_Chamber4_Various
+Hahahaaaha,哈哈哈哈哈哈！,mordar_chamber4_Laughter5,Dialog_Chamber4_Various
+Hahahaaaha,哈哈哈哈哈哈！,mordar_chamber4_Laughter6,Dialog_Chamber4_Various
+Hahahaaaha,哈哈哈哈哈哈！,mordar_chamber4_Laughter7,Dialog_Chamber4_Various
+Hahaha! You just stepped on my trap! Oh .. it was a dud.,哈哈哈！你刚踏入了我的陷阱！哦……失败了。,mordar_chamber4_Dud,Dialog_Chamber4_Various
+"Keep me close, I sense an unseen evil.",贴紧我，我能感觉到潜藏的邪恶。,orb_chamber4_KeepClose,Dialog_Chamber4_Various
+Another trick! Stand fast Gladiators!,又是圈套！快守住，角斗士！,orb_chamber4_AnotherTrick,Dialog_Chamber4_Various
+"Stand your ground Gladiators, now the true fight begins!",坚守阵地，角斗士，真正的战斗开始了！,orb_chamber4_TrueFight,Dialog_Chamber4_Various
+This shrine will help us see lurkers in the dark.,这座神坛能帮我们看见潜藏在黑暗里的东西。,orb_chamber4_LightShrineHint,Dialog_Chamber4_Various
+Run over there. Run over here. Hehehe.,跑那边。跑这边。呵呵呵。,mordar_chamber4_1RunOverThere,Dialog_Chamber4_Mordar
+Go. Save your little friend!,去吧。去救你的小伙伴！,mordar_chamber4_1GoSave,Dialog_Chamber4_Mordar
+,哈哈哈哈哈哈！,mordar_chamber4_1Laugh,Dialog_Chamber4_Mordar
+Come to me my favored experiment!,来我这，我最爱的实验体！,mordar_chamber4_1Experiment,Dialog_Chamber4_Mordar
+I’ll beat you with one arm tied to my leg! Hahaha,我一只手绑着脚都能击败你！哈哈哈！,mordar_chamber4_1OneArm,Dialog_Chamber4_Mordar
+Watch your back! Hahaha,当心你的背后！哈哈哈！,mordar_chamber4_1WatchBack,Dialog_Chamber4_Mordar
+I have a bone to pick with you Balfus. Hehehe!,我要跟你算账了，巴尔福斯！呵呵呵！,mordar_chamber4_1BoneToPick,Dialog_Chamber4_Mordar
+I’ve studied how to fight your kind Balfus!,我已经学会怎么和你这类东西打了，巴尔福斯！,mordar_chamber4_1Studied,Dialog_Chamber4_Mordar
+"We have no quarrels with you Mordar. Open the gate to The Master, and we will -",我们不想跟你吵，魔达。把到主人那的门给打开，我们会——,orb_chamber4_1NoQuarrels,Dialog_Chamber4_Mordar
+You are insane Mordar - what do you hope to achieve?!,你疯了啊，魔达——你想要得到什么？！,orb_chamber4_1Insane,Dialog_Chamber4_Mordar
+"This fight is madness, we have no -",这场战斗太疯狂了，我们没有——,orb_chamber4_1Madness,Dialog_Chamber4_Mordar
+Why fight?!,为什么要战斗？！,orb_chamber4_1WhyFight,Dialog_Chamber4_Mordar
+"Constant motion, that’s the key.",不断移动，那就是关键。,orb_chamber4_1ConstantMotion,Dialog_Chamber4_Mordar
+He seeks to strike you through me!,他想通过我来攻击你！,orb_chamber4_1ThroughMe,Dialog_Chamber4_Mordar
+"You're running out of tricks, Mordar.",你的诡计已经用完了，魔达。,orb_chamber4_NoTricksLeft,Dialog_Chamber4_Mordar
+"You've come far, Moon Gore – your Tribe would be proud. One last fight - Are you with me? ... Good.",没想到你能走到这么远，月血人——你的部落会为你骄傲的。只剩最后一战——你愿意和我一起吗？……很好。,orb_chamber4_2Proud,Dialog_Chamber4_Mordar
+"Your costly mistakes can still be remedied, Balfus.  <t>4.3</t> Join me in my chambers - let us.. <t>4.8</t> parley. <t>3</t> For old times sake?",你还能纠正自己那重大的错误，巴尔福斯。<t>4.3</t>来我房间——让我们……<t>4.8</t>好好谈谈。<t>3</t>看在老交情的份上？,themaster_lastboss_1JoinMe,Dialog_LastBoss_HoT
+You. have. no right to call yourself Master of this storied place. Your honorless reign ends here.,你，没有，资格称自己为这里的主人。你那缺乏荣耀感的统治就到此为止吧。,orb_lastboss_1NoRight,Dialog_LastBoss
+"Free men we stand, we will no longer be sold nor bought!",我们要当自由人，我们不再会被用来买卖！,orb_lastboss_1FreeMen,Dialog_LastBoss
+It is … finally .. done. My path is clear to me. <t>*</t> I shall take responsibility for turning this Training Hall honorable yet again.,终于……完成了。我的路已明确。<t>9</t>我要担起责任，再次恢复这个训练大厅过去的荣耀。,orb_lastboss_2MyPath,Dialog_LastBoss
+"I expect that you’ll be wishing to release your friends and family? <t>*</t> Go now, for none shall stop you. Free men you are.",我想你会希望释放你的朋友和家人？<t>5.4</t>去吧，现在已经没有人会阻挡你了。你自由了。,orb_lastboss_2Release,Dialog_LastBoss
+I bid you a fond farewell my silent companions. You have fought with honor.,容我向你们道声珍重，我寡言的同伴。你们的战斗是充满荣耀的。,orb_lastboss_2Farewell,Dialog_LastBoss
+"Know that this place will always be open for you, should you wish to hone your skills  – but from now on, as free men. Never again will your freedom be taken from you – never again shall you be forced!",别忘了这地方永远对你开放，你可以在这里磨练你的技能——但从现在起，是以自由人的身份。你的自由永远不再被夺走——你再也不用被强迫了！,orb_lastboss_2OpenForYou,Dialog_LastBoss
+Don’t you see the destruction you have wrought? What harm you have done?,你难道没看到自己造成的那些破坏吗？你都做了什么坏事？,themaster_lastboss_1Destruction,Dialog_LastBoss
+"Such display of raw power should be rewarded! <t>5</t> I should not punish you – I should grant you your rightful place, <t>5</t>as Arbiter of these hallowed halls.",这种美妙的原始力量应当被嘉奖！<t>5</t>我不应该处罚你的——我应该授予你正确的职位， <t>5</t>例如这些神圣大厅的仲裁者。,themaster_lastboss_1RawPower,Dialog_LastBoss
+You could be restored to your former glory! <t>3.1</t> The name Balfus could command all the respect you have ever desired! <t>6.6</t>Tribesmen and guardians would tremble in your shadow!,你能恢复你以往的荣耀！<t>3.1</t>巴尔福斯这个名字会得到你希望的所有尊重！<t>6.6</t>部落人和守护者会在你的影子里瑟瑟发抖！,themaster_lastboss_1FormerGlory,Dialog_LastBoss
+Your honor will never again be questioned.,你的荣耀将永远不再被质疑。,themaster_lastboss_1Honor,Dialog_LastBoss
+"Take your place by my side, Balfus - kill these impudent slaves! They are now far beneath you!",到我这里来，巴尔福斯——杀死这些大不敬的奴隶！他们现在远在你之下！,themaster_lastboss_1FarBeneathYou,Dialog_LastBoss
+"FREE MEN?! If free men you stand, then free men you fall!",自由人？！你若要当自由人，就以自由人的身份去死吧！,themaster_lastboss_2YouFall,Dialog_LastBoss
+This. Ends. HERE!,到、此、为、止！,orb_lastboss_ThisEnds,Dialog_LastBoss
+"You’ve ruined this great place, Master!",你已经毁了这个伟大的地方，主人！,orb_lastboss_Ruined,Dialog_LastBoss
+"The bigger they are, the harder they fall.",他们越大就越难倒下。,orb_lastboss_HarderFall,Dialog_LastBoss
+Divide and conquer!,逐个击破！,orb_lastboss_Divide,Dialog_LastBoss
+"Fight on, push ‘till the last!",继续战斗，坚持到最后！,orb_lastboss_FightOn,Dialog_LastBoss
+We will fight you to the end!,我们会和你战到最后的！,orb_lastboss_ToTheEnd,Dialog_LastBoss
+You are not worthy of the title “Master”,你不配“主人”这个称号！,orb_lastboss_NotWorthy,Dialog_LastBoss
+This world will finally be rid of your greedy machinations!,这个世界终将摆脱你那贪娄的阴谋！,orb_lastboss_GreedyMachinations,Dialog_LastBoss
+"I cannot resist their power, don’t let them use me as a weapon!",我反抗不了他们的力量，别让他们把我当武器使！,orb_lastboss_CannotResist,Dialog_LastBoss
+"The tether becomes more powerful the longer it’s active, be sure to break it at the opportune moment!",那个锁链激活的时间越长，它就越强大，一定要把握住机会破坏它！,orb_lastboss_BreakTether,Dialog_LastBoss
+The shield protects them from my magic! You have to separate them before I can break their bond.,那个护盾帮它们挡住了我的魔法！你必须分开它们我才能打断它们的联系。,orb_lastboss_TetherHint,Dialog_LastBoss
+Your greed will be your downfall! A fitting end.,你的贪娄会让你失败！这结局很适合你。,orb_lastboss_GreedDownfall,Dialog_LastBoss
+"The tether empowers him, be vigilant!",那个锁链正给予他能量，小心！,orb_lastboss_TetherEmpowers,Dialog_LastBoss
+You could have been so much more Balfus.,你原本可以做得更多的，巴尔福斯。,themaster_lastboss_MuchMore,Dialog_LastBoss
+How can you hope to contend with a god!,你怎么能期望与神抗争呢！,themaster_lastboss_WithAGod,Dialog_LastBoss
+"Smash, crush, rend. I’ve really missed this!",打破，压碎，撕裂。真怀念这种感觉！,themaster_lastboss_SmashCrush,Dialog_LastBoss
+Oh how I’ve missed this!,哦，我好怀念这种感觉！,themaster_lastboss_MissedThis,Dialog_LastBoss
+"I’ll crush your puny village after this, slaves!",这之后我要摧毁你们的弱渣村子，奴隶们！,themaster_lastboss_PunyVillage,Dialog_LastBoss
+Stand still!,不要动！,themaster_lastboss_StandStill,Dialog_LastBoss
+Get away insolent fool!,滚开，大不敬的蠢才！,themaster_lastboss_InsolentFool,Dialog_LastBoss
+I refuse to admit defeat!,我拒绝承认失败！,themaster_lastboss_Refuse,Dialog_LastBoss
+Marvelous!,非同凡响！,orb_generic_marvelous1,Dialog_GenericLines_Balfus
+Marvelous!,非同凡响！,orb_generic_marvelous2,Dialog_GenericLines_Balfus
+This should speed things up!,这应该能加快速度！,orb_generic_speedup1,Dialog_GenericLines_Balfus
+This should speed things up.,这应该能加快速度。,orb_generic_speedup2,Dialog_GenericLines_Balfus
+This should speed things up.,这应该能加快速度。,orb_generic_speedup3,Dialog_GenericLines_Balfus
+A wise choice.,明智的选择。,orb_generic_wisechoice1,Dialog_GenericLines_Balfus
+A wise choice.,明智的选择。,orb_generic_wisechoice2,Dialog_GenericLines_Balfus
+A wise choice.,明智的选择。,orb_generic_wisechoice3,Dialog_GenericLines_Balfus
+Well done!,干得好！,orb_generic_welldone1,Dialog_GenericLines_Balfus
+Well done!,干得好！,orb_generic_welldone2,Dialog_GenericLines_Balfus
+Well done.,干得好。,orb_generic_welldone3,Dialog_GenericLines_Balfus
+Well done.,干得好。,orb_generic_welldone4,Dialog_GenericLines_Balfus
+Warning!,警告！,warning,Warning
+Controller '§' has not been setup. Do you want to do it now?,控制器“§”未被设置过。要现在去设置吗？,controller_not_setup,Warning
+You've entered development mode due to use of a cheat code. One of us! One of us!\n\nCall orb (Space or X) to close.,你利用作弊码进入了开发者模式。自己人！自己人！\n\n呼唤光球（空格或X键）来关闭。,cheat0r,Warning
+You lost connection to the server.,你与服务器失去了连接。,lost_connection,Warning
+Failed to connect: Wrong password supplied.,连接失败：密码错误,invalid_password,Warning
+Failed to connect: Server is full,连接失败：服务器已满,server_full,Warning
+Failed to connect,连接失败,connection_failed,Warning
+You need more players to start a game.,你需要更多玩家才能开始游戏。,need_more_players,Warning
+This will delete your current progress.,这会删除你当前的进度。,delete_progress,Warning
+Are you a quitter?,你是半途而废的人吗？,quitter,Warning
+"The game will return to the main menu in '§' seconds""",游戏会在“§”秒内返回主菜单,return_to_mainmenu,Warning
+"An error occured, could not get highscores",发生错误，无法获取最高分数,could_not_get_highscores,Warning
+"The chosen game name '§' is too short, min '§' characters",所选游戏名“§”太短了，最少需要§个字符,gamename_too_short,Warning
+"The chosen game name '§' is too long, max '§' characters",所选游戏名“§”太长了，最多只能§个字符,gamename_too_long,Warning
+The game name '§' contains illegal characters '§',游戏名“§”包含非法字符“§”,gamename_illegal_characters,Warning
+The game name '§' contains illegal words,游戏名“§”包含非法词语,gamename_illegal_word,Warning
+"Too many local players to make a '§' game, do you want to create a '§' player game instead",有太多本地玩家创建“§”游戏了，作为代替你要创建“§”人游戏吗？,too_many_players,Warning
+Creating game,创建游戏中,creating_game,Warning
+"You cannot connect to game with name '§' due to it having version id '§', which is different from your version id '§'",你无法与游戏“§”连接，因为该游戏的版本ID“§”与你的版本ID“§”不同,wrong_version,Warning
+You cannot connect to game with name '§' due to it being a '§' and you being a '§'. You can play endless together during the tournament!,你无法与游戏“§”连接，因为它的是“§”而你的是“§”。你们可以在比赛中一起游玩无限模式！,join_demo_missmatch,Warning
+Connecting..,连接中……,connecting,Warning
+"Not done establishing connection, please try again in a few seconds..",未完成建立连接，请稍等片刻后重新尝试……,establishing_connection,Warning
+Failed to connect to game '§' with error: '§',创立游戏“§”失败，因为发生了该错误：“§”,failed_to_connect,Warning
+"You have never played "" '§' "" player before, so there is no highscores to fetch",你之前从未玩过“§”人游戏，因此没有最高分,never_played_n,Warning
+"Are you sure you want to leave the game with name '§'?""",你确定要离开游戏“§”吗？,leaving_game,Warning
+"Unhandled disconnect, you probably have to restart the game",发生未处理的断开连接，你有可能必须重启游戏,unhandled_disconnect,Warning
+Every player needs to ready up before the game can start!,游戏开始前所有玩家都要点准备！,player_not_ready,Warning
+You are starting a game that isn't full. Do you want to start a normal §-player game or a §-player drop-in game that others can join while you play.,你要开始的游戏人数未满。你想开始正常的§人游戏还是可中途加入的§人游戏。,drop_in,Warning
+Disconnecting...,断开连接中……,disconnecting,Warning
+Option temporary disabled. Leave game to add or remove local players.,该选项暂时禁用。请离开游戏来添加或移除本地玩家。,option_disabled,Warning
+Name already exist.,该名称已存在。,name_exists,Warning
+"All data will be deleted and cannot be recovered, are you sure?",所有数据都会被删除且无法恢复，你确定吗？,delete_data,Warning
+Logging In To Steam,登陆Steam中,logging_in_steam,Warning
+Online play has been disabled in this version,该版本已禁用在线游玩,online_disabled,Warning
+Are you sure you want to quit?,你确定要退出吗？,about_to_quit,Warning
+Do you wish to use the connected joystick,你想使用已连接的手柄吗？,connected_controller,Warning
+The demo will end in 10 seconds,试玩版将在10秒后结束,demo_end,Warning
+Quitting game,正在退出游戏中,quitting_game,Warning
+"An error occured, could not kick player.. Report this to us, thanks..",发生错误，无法踢掉玩家……请把问题上报给我们，谢谢……,kick_error,Warning
+You were kicked from the game..,你被踢了……,kicked,Warning
+§ has disconnected. The game will return to the start screen.,§已断开连接。游戏将返回至开始界面。,player_disconnected,Warning
+Disconnect,断开连接,disconnect,Warning
+Could not detect a controller. Try restarting the game. If that does not work try restarting your computer.,检测不到控制器。请尝试重启游戏。要是此方法没有效果请尝试重启你的电脑。,could_not_change_device,Warning
+"The player(s) in the game do not have the same progress as you, you will be playing with your shared crystals during this game.",游戏里玩家的进度与你的不一致，在游戏过程中你们只能用共有的水晶进行游玩。,less_crystals,Warning
+Yes,是,yes,Misc
+No,否,no,Misc
+Cancel,取消,cancel,Misc
+Local play,本地游玩,local_play,Misc
+Quit,退出,quit,Misc
+Leave,离开,leave,Misc
+Charge up and release a spirit explosion to heal you and your allies and knock back enemies.\r\n\r\nHeal: [FFD700]70[-] inside radius\r\nGlobal heal: [FFD700]40[-]\r\nKnockback: [FFD700]100[-]\r\nRadius: [FFD700]8[-]\r\n\r\n,蓄集并释放一次灵魂爆发来治疗你和你的队友，并击退敌人。\r\n\r\n治疗：范围内 [FFD700]70[-]\r\n全局治疗：[FFD700]40[-]\r\n击退：[FFD700]100[-]\r\n范围：[FFD700]8[-]\r\n\r\n,healing_blast,Ability
+"[FFD700]Mark applier[-]\r\n\r\nSends a spirit at an enemy that instantly applies marks, and then lingers and deals damage each second.\r\n\r\nDamage: [FFD700]3[-]\r\nMarks: [FFD700]5[-]\r\nDuration: [FFD700]10[-] seconds\r\n\r\nIf the enemy dies while the spirit lingers, it returns and the cooldown is reset.",[FFD700]附着印记[-]\r\n\r\n将灵魂发送至敌人处，并立即为其附着印记，之后灵魂会留在敌人身上且敌人每秒钟都受到伤害。\r\n\r\n伤害：[FFD700]3[-]\r\n印记：[FFD700]5[-]\r\n持续时间：[FFD700]10[-]秒\r\n\r\n若敌人在灵魂存留期间死亡，则灵魂会返回并重置冷却。,malign_spirit,Ability_Blades
+[FFD700]Mark spender[-]\r\n\r\nShoot an lightning arrow that will jump between enemies within range of each other.\r\n\r\nDamage: [FFD700]10[-] + [FFD700]8[-] per mark\r\nRange: [FFD700]8[-] for arrow jump\r\n\r\n,[FFD700]消耗印记[-]\r\n\r\n发射一根闪电箭，它会在范围内每个敌人间进行跳跃。\r\n\r\n伤害：[FFD700]10[-] + [FFD700]8[-] x 印记数\r\n跳跃距离：[FFD700]8[-]\r\n\r\n,chain_lightning_arrow,Ability
+"[FFD700]Mark applier[-]\r\n\r\nSpin around violently ignoring enemy hits, dealing damage and applying marks to nearby enemies.\r\n\r\nDamage: [FFD700]1[-] + [FFD700]1[-] per mark\r\nKnockback: [FFD700]36[-]\r\nMarks: [FFD700]1[-]\r\nDuration: [FFD700]3[-]",[FFD700]附着印记[-]\r\n\r\n无视敌人攻击在周围进行剧烈旋转，对附近的敌人造成伤害并对其附着印记。\r\n\r\n伤害：[FFD700]1[-] + [FFD700]1[-] x 印记数\r\n击退：[FFD700]36[-]\r\n印记：[FFD700]1[-]\r\n持续时间：[FFD700]3[-],flamenado,Ability_Hammer
+Using an ability adds [FFD700]1[-] mark to all enemies nearby.\r\n\r\nRadius: [FFD700]5[-],使用能力会增加周围所有敌人[FFD700]1[-]枚印记。\r\n\r\n范围：[FFD700]5[-],omnimarking,Ability_Blades
+"A basic attack hit increases attack speed, this can happen up to [FFD700]5[-] times, resulting in [FFD700]3[-] additional attacks per second.\r\n\r\nThe effect will wear off over [FFD700]1[-] second, if no succesful hits occur.",基础攻击命中时能提高攻击速度，该效果能触发[FFD700]5[-]次，即每秒钟最多能攻击多[FFD700]3[-]次。\r\n\r\n若出现攻击未命中的情况，则该效果会在[FFD700]1[-]秒后消失。,fury,Ability_Blades
+"[FFD700]Mark spender[-]\r\n\r\nDash forward, avoiding harm and slicing all enemies in the path. Spends the marks on all enemies hit.\r\n\r\nDamage: [FFD700]15[-]\r\nKnockback: [FFD700]5[-]\r\nRange: [FFD700]2[-]\r\nDuration: [FFD700]0.2[-] second\r\n\r\nEach mark you spend reduces the cooldown by [FFD700]1[-] second.",[FFD700]消耗印记[-]\r\n\r\n向前冲刺，免疫伤害并对路径上的敌人进行攻击。被击中的敌人会消掉印记。\r\n\r\n伤害：[FFD700]15[-]\r\n击退：[FFD700]5[-]\r\n冲刺距离：[FFD700]2[-]\r\n持续时间：[FFD700]0.2[-]秒\r\n\r\n消耗的每个印记都能减少[FFD700]1[-]秒冷却时间。,strafe,Ability_Blades
+[FFD700]Mark applier[-]\r\n\r\nShoot a healing totem into the ground. The totem heals you and your allies and gives enemies marks in a radius around it.\r\n\r\nHeal: [FFD700]20[-]\r\nMarks: [FFD700]1[-]\r\nInterval: [FFD700]2[-] seconds\r\nRadius: [FFD700]7[-]\r\nDuration: [FFD700]6[-],[FFD700]附着印记[-]\r\n\r\n往地面射出一个治疗图腾。它会治疗你和你的同伴并给予范围内的敌人印记。\r\n\r\n治疗：[FFD700]20[-]\r\n印记：[FFD700]1[-]\r\n间隔：[FFD700]2[-]秒\r\n范围：[FFD700]7[-]\r\n持续时间：[FFD700]6[-]秒,healing_arrow_totem,Ability
+"[FFD700]Mark spender[-]\r\n\r\nTarget an enemy and deal massive damage. Refreshes your frost protection.\r\n\r\nDamage: [FFD700]20[-] + [FFD700]10[-] per mark\r\n\r\nIf the target dies from this, the cooldown is reset.",[FFD700]消耗印记[-]\r\n\r\n瞄准一个敌人并对其造成巨量伤害。恢复你的冰霜防护。\r\n\r\n伤害：[FFD700]20[-] + [FFD700]10[-] x 印记数\r\n\r\n若目标因此死亡，则冷却时间会归零。,icy_execution,Ability_Shield
+[FFD700]Mark spender[-]\r\nInstantly creates an ice block around you that protects you from harm and then shatters.\r\n\r\nDamage: [FFD700]10[-] + [FFD700]8[-] per mark \r\nKnockback: [FFD700]30[-]\r\nRadius: [FFD700]4[-]\r\nDuration: [FFD700]1.5[-] seconds,[FFD700]消耗印记[-]\r\n立即在你周围创造冰块来保护你免受伤害，之后会碎掉。\r\n\r\n伤害：[FFD700]10[-] + [FFD700]8[-] x 印记数\r\n击退：[FFD700]30[-]\r\n范围：[FFD700]4[-]\r\n持续时间：[FFD700]1.5[-]秒,frost_cube,Ability_Shield
+"While frost protection is inactive, your attack speed is increased by [FFD700]20%[-]",若冰霜防护未被激活，则你的攻击速度提高[FFD700]20%[-]。,reckless_frenzy,Ability_Shield
+After a short charge up you deploy a mine at your location. After a small delay the mine will be active and will trigger if an enemy gets within blast radius.\r\n\r\nRadius: [FFD700]6[-]\r\nDamage: [FFD700]5[-]\r\nMarks: [FFD700]5[-]\r\nDuration: [FFD700]30[-] seconds\r\n\r\nEnemies hit by a mine will be stunned for [FFD700]5[-] seconds.,经过短暂蓄能后你会在自己位置上部署一颗地雷。若有敌人进入它的爆炸范围，则地雷会在短时间内被激活和触发。\r\n\r\n范围：[FFD700]6[-]\r\n伤害：[FFD700]5[-]\r\n印记：[FFD700]5[-]\r\n持续时间：[FFD700]30[-]秒\r\n\r\n被地雷击中的敌人眩晕[FFD700]5[-]秒。,mind_mine,Ability_Blades
+Hitting a target with no marks instantly activates frost protection.,攻击无印记敌人时会立即激活冰霜防护。,shield_bash,Ability_Shield
+Basic attacks now applies poison to enemies that deals damage each second.\r\n\r\nDamage: [FFD700]3[-]\r\nDuration: [FFD700]6[-] seconds,基础攻击现在能让敌人中毒，中毒者每秒钟都会受到伤害。\r\n\r\n伤害：[FFD700]3[-]\r\n持续时间：[FFD700]6[-]秒,poisoned_blades,Ability_Blades
+Gain [FFD700]+1[-] movement speed and only half movement penalty for attacking.,提高[FFD700]1[-]点移动速度且攻击时的移动惩罚只有原来的一半。,wardancer,Ability_Blades
+[FFD700]Mark spender[-]\r\n\r\nChannel energy through the orb to make a massive explosion.\r\n\r\nRadius: [FFD700]5[-] meters\r\nDamage: [FFD700]30[-] + [FFD700]10[-] per mark\r\nKnockback: [FFD700]40[-] + [FFD700]30[-] per mark,[FFD700]消耗印记[-]\r\n\r\n通过光球传送能量来引发一次巨大的爆炸。\r\n\r\n范围：[FFD700]5[-]米\r\n伤害：[FFD700]30[-] + [FFD700]10[-] x 印记数\r\n击退：[FFD700]40[-] + [FFD700]30[-] x 印记数,energy_bomb,Ability_Blades
+[FFD700]Mark spender[-]\r\n\r\nPower kick a single target.\r\n\r\nDamage: [FFD700]15[-] + [FFD700]6[-] per mark\r\nKnockback: [FFD700]48[-] + [FFD700]16[-] per mark\r\n\r\nBasic blade attacks reduces Power Kick's cooldown by [FFD700]1[-] second on hit.,[FFD700]消耗印记[-]\r\n\r\n对单体目标进行强力踢击。\r\n\r\n伤害：[FFD700]15[-] + [FFD700]6[-] x 印记数\r\n击退：[FFD700]48[-] + [FFD700]16[-] x 印记数\r\n\r\n基础攻击成功命中时能让强力踢击的冷却时间减少[FFD700]1[-]秒。,power_kick,Ability_Blades
+Hitting enemies with marks will instantly charge your hammer with charges equal to number of marks hit.,攻击带有印记的敌人能让你的锤子立即获得等同于印记数的充能。,refresher,Ability_Hammer
+"While shield protection is active, you gain:\r\n[FFD700]+1[-] movement speed\r\n[FFD700]+100%[-] knockback resistance\r\nand you heal [FFD700]2[-] health per sec.",当盾牌防御被激活时，你会获得：\r\n[FFD700]+1[-]移动速度\r\n[FFD700]+100%[-]击退抗性\r\n以及每秒钟恢复[FFD700]2[-]点生命。,stalwart,Ability_Shield
+"[FFD700]Mark applier[-]\r\n\r\nCharge straight ahead bashing foes on the way while being invulnerable.\r\n\r\nDamage: [FFD700]20 + 5[-] per mark.\r\nKnockback: [FFD700]100[-]\r\nMarks: [FFD700]5[-]\r\nRange: [FFD700]4[-]-[FFD700]8[-]\r\n\r\nIf no enemies are hit, cooldown is reduced by [FFD700]6[-] seconds.\r\n\r\n",[FFD700]附着印记[-]\r\n\r\n以无敌状态笔直冲撞敌人。\r\n\r\n伤害：[FFD700]20[-] + [FFD700]5[-] x 印记数\r\n击退：[FFD700]100[-]\r\n印记：[FFD700]5[-]\r\n冲撞距离：[FFD700]4[-]到[FFD700]8[-]\r\n\r\n若没撞到敌人，则冷却时间减少[FFD700]6[-]秒。,avalanche,Ability_Shield
+Place a spirit decoy at your position and become invisible. The decoy has [FFD700]50[-] health and enemies will attack it. If it is destroyed or disappears it deals knockback to enemies in range.\r\n\r\nKnockback: [FFD700]120[-]\r\nRadius: [FFD700]4[-]\r\nDecoy duration: [FFD700]10[-] seconds\r\nInvisibility duration: [FFD700]2[-] seconds,将灵魂诱饵放在自己位置上并隐身。该诱饵拥有[FFD700]50[-]点生命且敌人会攻击它。当它被摧毁或消失时会击退范围内的敌人。\r\n\r\n击退：[FFD700]120[-]\r\n范围：[FFD700]4[-]\r\n诱饵时间：[FFD700]10[-]秒\r\n隐身时间：[FFD700]2[-]秒,spirit_mirage,Ability_Blades
+Each successful basic attack will heal you for [FFD700]1[-].\r\nIf you have full health you deal [FFD700]1[-] additional damage per hit.,基础攻击每次命中都会恢复你[FFD700]1[-]点生命。\r\n如果你的生命值是满的，则你每次攻击能多造成[FFD700]1[-]点伤害。,vampiric,Ability_Blades
+Activate an aura that increases move speed by [FFD700]2[-] and heals you and your allies each second.\r\n\r\nHeal: [FFD700]10[-]\r\nDuration: [FFD700]5[-] seconds\r\nRadius: [FFD700]5[-]\r\n,激活一片气场，它能提高你[FFD700]2[-]点移动速度且每秒钟都会治疗你和你的同伴。\r\n\r\n治疗：[FFD700]10[-]\r\n持续时间：[FFD700]5[-]秒\r\n范围：[FFD700]5[-]\r\n,slick_moves,Ability_Shield
+"Switches between the two states; [FFD700]Yellow lightning[-] and [FFD700]Purple lightning[-].\r\n\r\n[FFD700]Yellow lightning[-]: Stretch speed is increased by [FFD700]20%[-]\r\n\r\n[FFD700]Purple Lightning[-]: Your main attacks now spend [FFD700]1[-] mark and do not add any. If a mark is consumed, your attack gains [FFD700]+10[-] damage and knockback.\r\nYou have [FFD700]-2[-] movement speed.",能在两种状态间切换：\r\n[FFD700]黄色闪电[-]和[FFD700]紫色闪电[-]。\r\n\r\n[FFD700]黄色闪电[-]：拉弓速度提高[FFD700]20%[-]。\r\n\r\n[FFD700]紫色闪电[-]：现在你的主攻击会消耗[FFD700]1[-]枚印记且不再附着印记。当有印记被消耗时，你的攻击会获得[FFD700]+10[-]伤害以及击退效果。\r\n移动速度[FFD700]-2[-]。,yellow_/_purple_lightning,Ability_Bow
+"Enemies within [FFD700]3[-] meters, take [FFD700]1[-] damage every second for each mark they have.",[FFD700]3[-]米内敌人每秒受到[FFD700]1[-] x 印记数的伤害。,spirit_melt,Ability_Blades
+Attacks against unmarked targets deal [FFD700]10[-] additional damage.,攻击无印记敌人能多造成[FFD700]10[-]点伤害。,sucker_punch,Ability_Blades
+"[FFD700]Mark spender[-]\r\n\r\nThrow the shield and wait for it to return.\r\n\r\nDamage: [FFD700]5[-] + [FFD700]10[-] per mark.\r\nKnockback: [FFD700]40[-]\r\nRange: [FFD700]10[-]\r\n\r\nWhile shield is thrown, you get [FFD700]+1.5[-] movement speed, but you cannot attack, block or use abilities.",[FFD700]消耗印记[-]\r\n\r\n扔出盾牌并等待它飞回。\r\n\r\n伤害：[FFD700]5[-] + [FFD700]10[-] x 印记数\r\n击退：[FFD700]40[-]\r\n扔盾距离：[FFD700]10[-]\r\n\r\n当盾牌被扔出去时，你[FFD700]+1.5[-]的移动速度，但你无法攻击，格挡或使用能力。,shield_throw,Ability_Shield
+"Applies a storm curse to enemies.\r\n\r\nDeals [FFD700]1[-] damage + [FFD700]1[-] for each mark, every [FFD700]3[-] sec for [FFD700]6[-] seconds.",对敌人使用风暴诅咒。\r\n\r\n每[FFD700]3[-]秒能造成[FFD700]1[-] + [FFD700]1[-] x 印记数的伤害，持续[FFD700]6[-]秒。,storm_curse,Ability_Bow
+[FFD700]Mark applier[-]\r\n\r\nHeals allies and then taunts nearby enemies to focus all attention upon you.\r\n\r\nHeal: [FFD700]25[-]\r\nMarks: [FFD700]5[-]\r\nRadius: [FFD700]12[-] meters\r\nDuration: [FFD700]4[-] seconds,[FFD700]附着印记[-]\r\n\r\n治疗同伴并嘲讽周围敌人。\r\n\r\n治疗：[FFD700]25[-]\r\n印记：[FFD700]5[-]\r\n范围：[FFD700]12[-]米\r\n持续时间：[FFD700]4[-]秒,core_taunt,Ability_Hammer
+[FFD700]Mark spender[-]\r\n\r\nShoot an arrow that creates an explosion based on the number of marks on target.\r\n\r\nDamage: [FFD700]7[-] per mark\r\nKnockback: [FFD700]20[-] per mark\r\nRadius: [FFD700]1[-] + [FFD700]1.5[-] per mark\r\n\r\n \r\n\r\n,[FFD700]消耗印记[-]\r\n\r\n射出一根能造成爆炸的箭，其威力取决于目标的印记数量。\r\n\r\n伤害：[FFD700]7[-] x 印记数\r\n击退：[FFD700]20[-] x 印记数\r\n范围：[FFD700]1[-] + [FFD700]1.5[-] x 印记数\r\n\r\n \r\n\r\n,nova_bolt,Ability
+"If enemy target has [FFD700]5[-] marks, you deal [FFD700]+2[-] damage per hit.",若敌对目标拥有[FFD700]5[-]枚印记，则你每次攻击\r\n[FFD700]+2[-]伤害。,rip_them_apart,Ability_Blades
+Sends out shocking warmth from the orb.\r\n\r\nRadius: [FFD700]6[-]\r\nHeals allies for [FFD700]100[-] health.\r\nKnockbacks enemies for [FFD700]100[-].,从光球中发出温暖的冲击波。\r\n\r\n范围：[FFD700]6[-]\r\n治疗同伴[FFD700]100[-]点生命值。\r\n击退：[FFD700]100[-],warmth_shock,Ability_Hammer
+You and your allies become damage and knockback immune while reflecting all damage and knockback to all melee attackers while active.\r\n\r\nDuration: [FFD700]4[-] seconds for you and [FFD700]2[-] seconds for your allies.,反射所有伤害且你和你的同伴免疫伤害和击退，并在激活时击退所有近战攻击者。\r\n\r\n持续时间：自己[FFD700]4[-]秒，同伴[FFD700]2[-]秒。,ice'n'guard,Ability_Shield
+"Frost protection recharges in [FFD700]2[-] seconds, instead of [FFD700]3[-].\r\n\r\nAdditionally, when frost protection becomes active,\r\nenemies within [FFD700]3[-] meters are dealt [FFD700]3[-] damage per mark and [FFD700]10[-] knockback per mark.",冰霜防护的冷却时间从[FFD700]3[-]秒缩短为[FFD700]2[-]秒。\r\n\r\n另外，当冰霜防护被激活时，[FFD700]3[-]米内的敌人会受到[FFD700]3[-] x 印记数的伤害以及[FFD700]10[-] x 印记\r\n数的击退。,icing,Ability_Shield
+"A succesful melee block will release a frost explosion upon the attacker dealing [FFD700]30[-] damage and [FFD700]60[-] knockback.\r\n\r\nThis block requires concentration, and blocking while attacking will only trigger a normal block.\r\n\r\n",成功格挡近战攻击时会对攻击者释放一次冰霜爆破，并对其造成[FFD700]30[-]点的伤害以及[FFD700]60[-]点的击退。\r\n\r\n该格挡需要专注才能触发，边攻击边格挡只会触发普通的格挡。,frost_counter,Ability_Shield
+Attacks deal an additional  [FFD700]+1[-] damage per mark on target.,攻击能多造成[FFD700]1[-] x 印记数的伤害。,ice_and_blood,Ability_Shield
+You receive only half the normal movement penalty for stretching the bow.,你拉弓时的移动惩罚只有正常的一半。,ranger,Ability_Bow
+The maximum number of charges on the hammer is increased by [FFD700]10[-] allowing it to charge [FFD700]1[-] second longer.,锤子的最大充能提升[FFD700]10[-]点，锤子的最大充能时间也因此延长[FFD700]1[-]秒。,destruction_battery,Ability_Hammer
+"[FFD700]Mark applier[-]\r\n\r\nSmash the ground, stunning and giving enemies marks.\r\n\r\nRadius: [FFD700]7[-]\r\nMarks: [FFD700]5[-]\r\n\r\nEnemies affected are stunned for [FFD700]3[-] seconds.",[FFD700]附着印记[-]\r\n\r\n猛击地面，眩晕敌人并给予敌人印记。\r\n\r\n范围：[FFD700]7[-]\r\n印记：[FFD700]5[-]\r\n\r\n受影响的敌人会被眩晕[FFD700]3[-]秒。,ground_slam,Ability_Shield
+[FFD700]Mark applier[-]\r\n\r\nLeap into the air and smash down where the orb is located. Enemies near the impact take damage and recieve marks.\r\n\r\nDamage: [FFD700]30[-]\r\nKnockback: [FFD700]200[-] \r\nMarks: [FFD700]5[-]\r\nRadius: [FFD700]5[-],[FFD700]附着印记[-]\r\n\r\n跳至空中并往光球位置向下猛砸。撞击点附近的敌人会受到伤害并获得印记。\r\n\r\n伤害：[FFD700]30[-]\r\n击退：[FFD700]200[-] \r\n印记：[FFD700]5[-]\r\n范围：[FFD700]5[-],cold_leap,Ability_Shield
+"Fly to target location, enemies hit on the way are stunned for [FFD700]3[-] seconds.\r\n\r\nRange: [FFD700]0-20[-]\r\n\r\n \r\n\r\n",飞至目标位置，路径中被命中的敌人会眩晕[FFD700]3[-]秒钟。\r\n\r\n范围：[FFD700]0[-]至[FFD700]20[-],spirit_surge,Ability
+Fully stretched arrows deal [FFD700]+3[-] damage per mark.,满蓄力拉弓能多造成[FFD700]3[-] x 印记数的伤害。,hitting_the_wound,Ability_Bow
+"Fully stretched arrows will pierce through marked enemies, dealing [FFD700]5[-] damage per mark the previous target had, but normal knockback.",满蓄力射出的弓箭能穿透带印记的敌人，并造成前个目标印记数 x [FFD700]5[-]的伤害，但只\r\n有普通的击退威力。,unstoppable_thunder,Ability_Bow
+Your fully charged attacks now add [FFD700]2[-] marks to enemies.,你的满充能攻击会给敌人增加[FFD700]2[-]枚印记。,cleaving_marks,Ability_Hammer
+Calls down a flaming meteor to strike the target location.\r\n\r\nDamage: [FFD700]30[-]\r\nKnockback: [FFD700]80[-]\r\nRadius: [FFD700]3.5[-]\r\nRange: [FFD700]20[-]\r\n,召唤一颗火焰陨石砸向目标位置。\r\n\r\n伤害：[FFD700]30[-]\r\n击退：[FFD700]80[-]\r\n范围：[FFD700]3.5[-]\r\n召唤距离：[FFD700]20[-],call_meteor,Ability
+"Two Lightning Spirits accompany your shots. \r\nThey both deal half the damage of normal arrows, do not apply marks and are not affected by perks.\r\nYour minimum stretch time is increased by [FFD700]0.4[-] second.",会有两个雷电精灵跟着你射出的箭。\r\n它们的威力只有普通弓箭的一半，且不受印记和特性的影响。\r\n你的最短拉弓时间上升[FFD700]0.4[-]秒。,triple_shot,Ability_Bow
+Wakes the fire in all players on the field with a shout.\r\nIncreases speed by [FFD700]3[-]\r\n\r\nIncreasing basic attack damage by [FFD700]100%[-].\r\n\r\nDuration: [FFD700]5[-] sec.,用怒吼唤醒场上所有玩家的激情。\r\n速度提高[FFD700]3[-]点。\r\n\r\n基础攻击伤害提高[FFD700]100%[-]。\r\n\r\n持续时间：[FFD700]5[-]秒,war_shout,Ability_Hammer
+Range of fully charged basic attacks is extended by [FFD700]1.5[-] meter.,满充能基础攻击的攻击范围增加[FFD700]1.5[-]米。,flame_spurs,Ability_Hammer
+Your max stretch charges are reduced by [FFD700]5[-].\r\n\r\nFully stretched arrows deal [FFD700]+5[-] damage.,你的最大蓄力减少[FFD700]5[-]点。\r\n\r\n满蓄力射出的弓箭伤害[FFD700]+5[-]点。,shortened_focus,Ability_Bow
+A succesful hit while Frost Shield is active will trigger it to explode on the enemy. \r\nAll enemies within [FFD700]3[-] meters are dealt [FFD700]10[-]  damage and [FFD700]20[-]  knockback.,在冰霜盾被激活的情况下成功命中敌人会触发爆炸。\r\n[FFD700]3[-]米内所有敌人都会受到[FFD700]10[-]点的伤害和[FFD700]20[-]点的击退。,frost_smash,Ability_Shield
+Turn invisible for a duration and knockback enemies in range. All allies also turn invisible but for a shorter duration.\r\n\r\nKnockback: [FFD700]60[-]\r\nRange: [FFD700]3[-] for enemy knockback\r\nDuration: [FFD700]5[-] and [FFD700]3[-] for allies,隐身一段时间并击退范围内的敌人。其他同伴也会隐身，但持续时间较短。\r\n\r\n击退：[FFD700]60[-]\r\n范围：[FFD700]3[-]\r\n持续时间：自己[FFD700]5[-]秒，同伴[FFD700]3[-]秒。,invisibility,Ability_Bow
+Standing still charges hammer  [FFD700]30%[-] faster.,静止不动时锤子的充能速度提高[FFD700]30%[-]。,let_them_come,Ability_Hammer
+"Minimum stretch time is reduced by [FFD700]0.2[-] second.\r\n\r\nShooting faster allows you to apply more marks, increasing the effectiveness of many abilities.",最短拉弓时间减少[FFD700]0.2[-]秒。\r\n\r\n提高射箭速度能让你附着更多印记，许多能力的效率也会因此得到提升。,deadly_calm,Ability_Bow
+Switches between the two states of fire; [FFD700]Flame[-] and [FFD700]Lava[-].\r\n\r\n[FFD700]Flame[-]: Each enemy hit with a basic hammer attack will reduce your skill cooldowns by [FFD700]1[-] sec.\r\n\r\n[FFD700]Lava[-]: Basic attacks become mark spenders. Each mark spent will heal you for [FFD700]3[-] health. Movement speed is reduced by [FFD700]3[-]  but you gain [FFD700]100%[-] increased knockback resistance.,能在两种火焰状态间进行切换：[FFD700]烈焰[-]和[FFD700]熔岩[-]。\r\n\r\n[FFD700]烈焰[-]：每次基础攻击命中敌人都能让你的技能冷却时间减少[FFD700]1[-]秒。\r\n\r\n[FFD700]熔岩[-]：使用基础攻击会消耗印记，消耗的每个印记都会恢复你[FFD700]3[-]点生命。虽然你的移动速度会减少[FFD700]3[-]点，但你的击退抗性会增加[FFD700]100%[-]。,flame/lava,Ability_Hammer
+"Enemies killed by a fully stretched arrow, will explode dealing [FFD700]20[-] damage and [FFD700]50[-] knockback to all enemies within [FFD700]3[-] meters.",被满蓄力弓箭射死的敌人会发生爆炸，该爆炸会对[FFD700]3[-]米内所有敌人造成[FFD700]20[-]点的伤害和[FFD700]50[-]点的击退。,explosive_energy,Ability_Bow
+"Using an ability instantly charges your hammer, and adds [FFD700]5[-] damage to your next attack.  \r\n\r\nStance shifting does not count.",使用能力时你的锤子会立即获得充能，并让你的下次攻击增加[FFD700]5[-]点伤害。\r\n\r\n不包括状态变化。,swing_fury,Ability_Hammer
+[FFD700]Mark applier[-]\r\n\r\nCall down lightning strikes upon all enemies in a huge radius and draw their attention to you for the duration.\r\n\r\nDamage: [FFD700]10[-] per mark per lightning strike\r\nMark: [FFD700]1[-]\r\nRadius: [FFD700]40[-]\r\nDuration: [FFD700]6[-]\r\nType: Channeling,[FFD700]附着印记[-]\r\n\r\n召唤雷电攻击大范围内的所有敌人，且在效果期间会吸引它们的注意。\r\n\r\n每道雷伤害：[FFD700]10[-] x 印记数\r\n印记：[FFD700]1[-]\r\n范围：[FFD700]40[-]\r\n持续时间：[FFD700]6[-],lightning_storm,Ability
+"Enemies within [FFD700]3[-] meter, receives [FFD700]1[-] mark every second, for as long as frost protection is active.",只要冰霜防护处于激活状态，则[FFD700]3[-]米内的敌人每秒钟都会获得[FFD700]1[-]枚印记。,freezer,Ability_Shield
+"[FFD700]Mark spender[-]\r\n\r\nA burning aura surrounds you, consuming [FFD700]1[-] mark on each enemy every [FFD700]0.5[-] second to deal [FFD700]6[-] damage and [FFD700]5[-] knockback.\r\n\r\nDuration is [FFD700]5[-] seconds and increases by [FFD700]0.5[-] sec for each basic attack hit.\r\n\r\nThe auras radius decreases based on the duration left, from [FFD700]6[-] to [FFD700]3[-] meters.",[FFD700]消耗印记[-]\r\n\r\n你身边会围绕一股燃烧气场，该气场每\r\n[FFD700]0.5[-]秒会消耗敌人[FFD700]1[-]枚印记，并对其造成[FFD700]6[-]点伤害和[FFD700]5[-]点击退。\r\n\r\n持续[FFD700]5[-]秒且基础攻击命中时增加[FFD700]0.5[-]秒。\r\n\r\n气场范围会随剩余时间在[FFD700]6[-]到[FFD700]3[-]米间变动。,burning_aura,Ability_Hammer
+Your primary attack deals an additional [FFD700]8[-] knockback for each mark on targets hit.,目标每有一枚印记，你的主要攻击就会造成额外[FFD700]8[-]点击退。,knockbacker,Ability_Hammer
+Succesfull basic attacks increases movement speed by [FFD700]2.5[-] for 2 seconds.,基础攻击成功命中时会提高[FFD700]2.5[-]点的移动速度，持续2秒。,combat_swiftness,Ability_Hammer
+"[FFD700]Mark applier[-]\r\n\r\nReleases a barrage of arrows in quick succession. Each arrow will add a mark, deal damage and knockback enemies.\r\n\r\nDamage: [FFD700]1[-] + [FFD700]1[-] per mark\r\nKnockback: [FFD700]10[-]\r\nMarks: [FFD700]1[-]\r\nInterval: [FFD700]0.1[-] second\r\nDuration: [FFD700]1.6[-] seconds",[FFD700]附着印记[-]\r\n\r\n不断释放一连串的弓箭。每根箭都能增加一枚印记，且会对敌人造成伤害以及击退效果。\r\n\r\n伤害：[FFD700]1[-] + [FFD700]1[-] x 印记数\r\n击退：[FFD700]10[-]\r\n印记：[FFD700]1[-]\r\n间隔：[FFD700]0.1[-]秒\r\n持续时间：[FFD700]1.6[-]秒,overcharge,Ability_Bow
+[FFD700]Mark spender[-]\r\n\r\nSlam the ground and hit enemies in the area.\r\n\r\nDamage: [FFD700]15[-] + [FFD700]8[-] per mark \r\nKnockback: [FFD700]36[-] + [FFD700]24[-] per mark\r\nRadius: [FFD700]4[-],[FFD700]消耗印记[-]\r\n\r\n猛击地面并攻击范围内的敌人。\r\n\r\n伤害：[FFD700]15[-] + [FFD700]8[-] x 印记数\r\n击退：[FFD700]36[-] + [FFD700]24[-] x 印记数\r\n范围：[FFD700]4[-],volcanic_slam,Ability_Hammer
+Buffs the orb with the razor power which deals damage every second to enemies around it.\r\n\r\nDamage: [FFD700]6[-]\r\nRadius: [FFD700]2[-]\r\nDuration: [FFD700]8[-] seconds,用剃刀之力加持光球，使其每秒钟都会对它周围敌人造成伤害。\r\n\r\n伤害：[FFD700]6[-]\r\n范围：[FFD700]2[-]\r\n持续时间：[FFD700]8[-]秒,lightning_razor,Ability_Bow
+I'll be backs,我会回来的,activator_test,Test
+Use marks,使用印记,upperText0,LoadingTip
+tip1image,tip1image,spriteName0,LoadingTip
+"This Swarmer has 4 marks. \nMany abilities have greater effects, \nthe more marks enemies have!",该蜂拥者拥有4枚印记。\n敌人拥有越多印记，许多能力的效果就越显著！,lowerText0,LoadingTip
+Collect crystals!,收集水晶！,upperText1,LoadingTip
+tip2image,tip2image,spriteName1,LoadingTip
+Each trial holds 3 crystals that give you access to new skills.,每个试炼关都有三颗水晶，它们能让你获得新的技能。,lowerText1,LoadingTip
+Time and Challenge,限时与任务,upperText2,LoadingTip
+tip3image,tip3image,spriteName2,LoadingTip
+"When you complete a trial, it’s completion time and special challenge is revealed.\n",限时挑战与任务挑战会在试炼完成后揭示。,lowerText2,LoadingTip
+Avoid all damage!,避开所有伤害！,upperText3,LoadingTip
+tip4image,tip4image,spriteName3,LoadingTip
+"All enemy attacks can be avoided, figure out how - it’s a great gladiator rule of thumb!",所有敌人的攻击都可以被闪避，你需要找出其中的技巧——这是伟大角斗士的经验之谈！,lowerText3,LoadingTip
+Use your Spirit Mentor,使用你的精神导师,upperText4,LoadingTip
+tip5image,tip5image,spriteName4,LoadingTip
+"If you're stuck, try to consider how Balfus could help you.",你要是卡关了，就考虑下巴尔福斯能否帮你。,lowerText4,LoadingTip
+Move around!,四处游走！,upperText5,LoadingTip
+tip6image,tip6image,spriteName5,LoadingTip
+"Move away from enemies, if you aren't ready to deal damage.",你要是还没做好输出的准备，就远离敌人吧。,lowerText5,LoadingTip
+Experiment!,多尝试！,upperText6,LoadingTip
+tip7image,tip7image,spriteName6,LoadingTip
+A true gladiator masters many styles. Make your killing creative.,真正的角斗士会精通所有风格的武器。别让自己的杀招太过套路。,lowerText6,LoadingTip
+Knockdown foes!,击倒敌人！,upperText7,LoadingTip
+tip8image,tip8image,spriteName7,LoadingTip
+"Knockback enemies, most of them will fall if you hit them hard enough.",只要你用力够猛，大部分敌人在被击退时都会倒下。,lowerText7,LoadingTip
+Wield or place,跟随或放置,upperText8,LoadingTip
+tip9image,tip9image,spriteName8,LoadingTip
+Press call to place Balfus or hold to wield him.,按呼唤键放置巴尔福斯或长按来让他跟着。,lowerText8,LoadingTip
+Trials can vary,试炼会变化,upperText9,LoadingTip
+tip10image,tip10image,spriteName9,LoadingTip
+Trials can transform and pose a threat equal to the number of gladiators in them.,试炼的威胁等级会随角斗士的数量发生变化。,lowerText9,LoadingTip
+Join as friend,以好友身份加入,JoinAsFriend,controllers
+Join as main,以主机身份加入,JoinAsMain,controllers
+Leave,离开,Leave,controllers
+Local players,本地玩家,localPlayers,controllers
+Kick Players,踢除玩家,kickPlayers,kickMenu
+Back,返回,Back,Misc
+Kick,踢除,Kick,Misc
+Confirm,确认,Confirm,Misc
+New profile,新档案,NewProfile,Misc
+New Profile:,新档案：,NewProfileColon,Misc_Headline
+Are you sure about this?,你确定要这样做吗？,AreYouSure,Misc_Headline
+Start,开始,Start,Misc
+Suggested,推荐,Suggested,Misc
+Local Profiles:,本地档案：,LocalProfilesColon,Misc_Headline
+Delete profile,删除档案,DeleteProfile,Misc
+Local play,本地游玩,LocalPlay,GUI_words
+Use localplay if you don't care about highscores and you just want to play with friends in the couch.,如果你不介意高分排行榜，只想和身边的朋友一起玩游戏，那就点本地游玩吧。,LocalPlayInfo,GUI
+Chat,聊天,Chat,Misc
+Join game,加入游戏,JoinGame,Misc
+Refresh,刷新,Refresh,Misc
+Game mode,游戏模式,GameMode,Misc_Headlines
+Game name,游戏名称,GameName,Misc_Headlines
+Crystals,水晶,Crystals,Misc
+Ping,延迟,Ping,Misc
+Players,玩家,Players,Misc
+Invite friend,邀请朋友,InviteFriend,Misc
+Kick player,踢除玩家,KickPlayers,Misc
+Play while you wait!,边等待边进行游戏！,PlayWhileYouWait,Misc
+Leave game,离开游戏,LeaveGame,Misc
+Start Game,开始游戏,StartGame,Misc
+Game:,游戏：,GameColon,Misc
+Crystals:,水晶：,CrystalsColon,Misc
+Campaign,战役,Campaign,Misc
+Mode:,模式：,ModeColon,Misc
+Join,加入,Join,Misc
+Ready!,准备！,Ready!,Misc
+Game name:,游戏名称：,GameNameColon,Misc_Headlines
+Number of players:,玩家数量：,NumberOfPlayersColon,Misc_Headlines
+Private game?,私人游戏？,PrivateGame?,Misc_Headlines
+Allow players with more crystals than you to use them?,允许水晶比你多的玩家使用它们？,AllowPlayersWithMoreCrystals,Misc_Headlines
+Allow helpers?,允许帮手？,AllowHelpers?,Misc_Headlines
+Chamber access required:,房间准入要求：,ChamberAccessRequired:,Misc_Headlines
+Create Game,创建游戏,CreateGame,Misc
+Quick find,快速寻找,QuickFind,Misc
+Press Any Key,按下任意键,PressAnyKey,Misc
+Area:,区域：,Area:,Misc
+Players:,玩家：,Players:,Misc
+Friends,好友,Friends,Misc
+Top Global,全球最佳成绩,TopGlobal,Misc
+You on global,你的全球成绩,YouOnGlobal,Misc
+Ranking,排名,Ranking,Misc
+Area,区域,Area,Misc
+Name,名称,Name,Misc
+Rank,等级,Rank,Misc
+Total\nTime,总计\n时间,TotalTime,Misc
+Fullscreen,全屏,Fullscreen,Misc
+Settings,设置,Settings,Misc_Headlines
+Language,语言,Language,Misc
+Master,主音量,Master,Misc
+Music,音乐,Music,Misc
+Profiles,档案,Profiles,Misc
+Quality,质量,Quality,Misc
+Resolution,分辨率,Resolution,Misc
+Controller Setup,控制器设置,ControllerSetup,Misc
+SFX,音效,SFX,Misc
+Subtitles,字幕,Subtitles,misc
+Choose your weapon:,选择你的武器：,ChangeYourWeapon,Weird
+Completion Time:,完成时间：,CompletionTime,Misc
+Survival,生存,Survival,Misc
+SinglePlayer,单人游玩,SinglePlayer,Misc
+CHALLENGE: Destroy no spawner shrines,任务：不要摧毁孵化神坛,DontDestroySpawnersChallengeObjectiveTitle,ChallengeTexts
+Destroy no spawner shrines,不要摧毁孵化神坛,DontDestroySpawnersChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Don't go below $m health,任务：生命值不低于$m,NotBelowHPChallengeObjectiveTitle,ChallengeTexts
+Don't go below $v health,生命值不低于$v,NotBelowHPChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Only let $v/$m eggs hatch,任务：只允许$v/$m颗蛋被孵化,NoBoomerHatchChallengeObjectiveTitle,ChallengeTexts
+Only let $v eggs hatch,只允许$v颗蛋被孵化,NoBoomerHatchChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Complete the middle room last!,任务：最后才完成中间房！,BestForLastChallengeObjectiveTitle,ChallengeTexts
+Complete the middle room last!,最后才完成中间房！,BestForLastChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Receive NO Healing.,任务：不接受任何治疗,NoHealingChallengeObjectiveTitle,ChallengeTexts
+Receive NO Healing.,不接受任何治疗,NoHealingChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Do not get hit by blood spurts.,任务：不被血喷到,UnbloodiedChallengeObjectiveTitle,ChallengeTexts
+Do not get hit by blood spurts.,不被血喷到,UnbloodiedChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Don't cleanse any infested shrines.,任务：不净化任何神坛,EmbraceTheCorruptionChallengeObjectiveTitle,ChallengeTexts
+Don't cleanse any infested shrines.,不净化任何神坛,EmbraceTheCorruptionChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Find the secret room,任务：找到秘密房间,FindSecretRoomChallengeObjectiveTitle,ChallengeTexts
+Find the secret room,找到秘密房间,FindSecretRoomChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Kill $v/$m volatile swarmers with the Fly Swarm.,任务：利用飞虫群消灭$v/$m个爆炸蜂拥者,FriendlyFlierChallengeObjectiveTitle,ChallengeTexts
+Kill $v volatile swarmers with the Fly Swarm debuff.,利用飞虫群消灭$v个爆炸蜂拥者,FriendlyFlierChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Hit no orb barriers with the orb.,任务：光球不碰到光球屏障,NoOrbBarrierHitChallengeObjectiveTitle,ChallengeTexts
+Hit no orb barriers with the orb.,光球不碰到光球屏障,NoOrbBarrierHitChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Don't use the heal shrine.,任务：不使用治愈神坛,NoHealShrineChallengeObjectiveTitle,ChallengeTexts
+Don't use the heal shrine.,不使用治愈神坛,NoHealShrineChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Don't take any damage,任务：不受到伤害,UntouchedChallengeObjectiveTitle,ChallengeTexts
+Don't take any damage,不受到伤害,UntouchedChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Kill a Dark Hunter with a grinder.,任务：利用尖刺装置消灭一个暗黑猎手,HunterToHuntedChallengeObjectiveTitle,ChallengeTexts
+Kill a Dark Hunter with a grinder.,利用尖刺装置消灭一个暗黑猎手,HunterToHuntedChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Touch the Blue Challenge Banner!,任务：触碰蓝色挑战旗帜！,GetToTheBannerChallengeObjectiveTitle,ChallengeTexts
+Touch the Blue Challenge Banner!,触碰蓝色挑战旗帜！,GetToTheBannerChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Don't take damage from a volatile swarmer,任务：不受到爆炸蜂拥者的伤害,SuicideIsNeverTheAnswerChallengeObjectiveTitle,ChallengeTexts
+Don't take damage from a volatile swarmer,不受到爆炸蜂拥者的伤害,SuicideIsNeverTheAnswerChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Kill two Living Statues with the same bomb.,任务：用一个炸弹消灭两尊活体雕像,WeComeInPiecesChallengeObjectiveTitle,ChallengeTexts
+Kill two Living Statues with the same bomb.,用一个炸弹消灭两尊活体雕像,WeComeInPiecesChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Avoid all stomps.,任务：避开所有践踏,RedLightGreenLightChallengeObjectiveTitle,ChallengeTexts
+Avoid all stomps,避开所有践踏,RedLightGreenLightChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Deal $v/$m damage to Slarth with his own bomb,任务：用斯拉思的炸弹对其自身造成$v/$m点伤害,HaveABlastChallengeObjectiveTitle,ChallengeTexts
+Deal $v damage to Slarth with his own bomb,用斯拉思的炸弹对其自身造成$v/$m点伤害,HaveABlastChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Kill Morgrul within $v/$m seconds of his release.,任务：在莫格鲁被释放后$v/$m秒内消灭他,FastKillChallengeObjectiveTitle,ChallengeTexts
+Kill Morgrul within $v seconds of his release.,在莫格鲁被释放后$v秒内消灭他,FastKillChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Call the orb a maximum of $v/$m times,任务：呼唤光球的次数不超过$v/$m次,DontCallMeMaybeChallengeObjectiveTitle,ChallengeTexts
+Call the orb a maximum of $v times,呼唤光球的次数不超过$v次,DontCallMeMaybeChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Hit $v/$m enemies with a single Shockwave Shrine push.,任务：利用震波神坛的冲击一次性命中$v/$m个敌人,PushHitFiveChallengeObjectiveTitle,ChallengeTexts
+Hit $v enemies with a single Shockwave shrine push.,利用震波神坛的冲击一次性命中$v个敌人,PushHitFiveChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Don't contract the mist.,任务：别被雾气碰到,RaceTheMistChallengeObjectiveTitle,ChallengeTexts
+Don't contract the mist.,别被雾气碰到,RaceTheMistChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Don't take cover from the beam,任务：不用掩体躲避光束,NoCoverChallengeObjectiveTitle,ChallengeTexts
+Don't take cover from the beam,不用掩体躲避光束,NoCoverChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Receive healing from every Infested Shrine. $v/$m,任务：从所有受感染的神坛中获得治疗（$v/$m）,MedicChallengeObjectiveTitle,ChallengeTexts
+Receive healing from every Infested Shrine.,从所有受感染的神坛中获得治疗,MedicChallengePreparationTitle,ChallengeTexts
+"CHALLENGE: Destroy a statue with a fast, healing bomb.",任务：用快速治疗炸弹摧毁雕像,ThreeOrbBuffsChallengeObjectiveTitle,ChallengeTexts
+"Destroy a statue with a fast, healing bomb.",用快速治疗炸弹摧毁雕像,ThreeOrbBuffsChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Light all shrines: $v/$m,任务：点亮所有神坛（$v/$m）,BrightIdeaChallengeObjectiveTitle,ChallengeTexts
+Light all shrines.,点亮所有神坛,BrightIdeaChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Don't touch the mist,任务：不要碰到雾气,AvoidMistChallengeObjectiveTitle,ChallengeTexts
+Don't touch the mist,不要碰到雾气,AvoidMistChallengePreparationTitle,ChallengeTexts
+CHALLENGE: Kill $v/$m enemies with one bomb.,任务：用一颗炸弹消灭$v/$m个敌人,OneBombChallengeObjectiveTitle,ChallengeTexts
+Kill $v enemies with one bomb.,用一颗炸弹消灭$v个敌人,OneBombChallengePreparationTitle,ChallengeTexts
+CHALLENGE: The orb must not reach a Bone Shrine,任务：别让光球碰到骨头神坛,LonelyBonesChallengeObjectiveTitle,ChallengeTexts
+The orb must not reach a Bone Shrine.,别让光球碰到骨头神坛,LonelyBonesChallengePreparationTitle,ChallengeTexts
+Server,服务器,server,GUI
+Stream title,串流标题,stream_title,GUI
+(Hold for 0.3 sec.),（长按0.3秒）,HoldFor3Sec,Misc
+Skip,跳过,Skip,Misc
+Continue,继续     ,Continue,Misc
+All players must pick up a weapon \n to begin a trial.,所有玩家都要在试炼开始前选好武器。,AllPlayersMustPickUpAWeapon,CodeReplacmentStrings
+All players must assign all skills and perks \n to begin a trial.,所有玩家都要在试炼开始前分配完技能和特性。,AllPlayersMustAssignSkills,CodeReplacmentStrings
+Challenge Crystals,任务水晶,ChallengeTokens,Misc_headlines
+Completion Crystals,通关水晶,CompletionTokens,Misc_headlines
+Extended\nTime Stats,延长\n时间状态,ExtendedTimeStats,Misc
+Time Crystals,限时水晶,TimeTokens,Misc_headlines
+Progress,进度,Progress,Misc
+Total Progress,总体进度,TotalCompletion,Misc_headlines
+Total Completion Time,总计完成时间,TotalCompletionTime,Misc_headlines
+Total Progress,总体进度,TotalProgress,Misc
+Average completion time:,平均完成时间：,AverageCompletionTime,Misc
+Challenge,任务,Challenge,Misc
+Closest Friends,最接近的好友,ClosestFriends,Misc
+Closest on Global Ranking,最接近的全球排名,ClosestOnGlobalRanking,Misc
+Time:,时间：,TimeColon,Misc
+Extended Trial Information,更多试炼信息,ExtendedTrialInformation,Misc
+Trial Overview,试炼总览,TrialOverview,Misc
+Crystals collected:,已收集水晶：,CrystalsCollected:,Misc
+Pick up a weapon,先挑选武器,PickUpAWeapon,Misc
+Passives,被动,Passives,Misc
+Skills,技能,Skills,Misc
+Actives,主动,Actives,Misc
+Marks,印记,Marks,Misc
+All weapons add marks with their basic attacks. Marks can be spent by any player and will often make active skills more powerful.,所有武器的基础攻击都能附着印记。任何玩家都能把印记消耗掉，且印记经常会被用来加强主动技能。,AllWeaponsAddMarks,Misc
+The Orb,光球,TheOrb,Misc
+"Balfus is your companion in the arenas, but you have to tell him where to go! Use your spirit call to navigate him over shrines and other points of interest in the arenas.",在角斗场里巴尔福斯就是你的搭档，不过你得告诉他要往哪走！用你的精神呼唤来引导他至神坛或角斗场里其它令人在意的地方。,BalfusIsYourCompanion,Misc
+Help,帮助,Help,Misc
+Highscore,高分,Highscore,Misc
+Main Menu,主菜单,MainMenu,Misc
+Menu,菜单,Menu,Misc
+Hall of Trials,试炼大厅,HallOfTrials,Misc
+Preparation Room,准备室,PreparationRoom,Misc
+Reset Trial,重置试炼,ResetChallenge,Misc
+Info,信息,Info,Misc
+Close,关闭,Close,Misc
+Choose,选择,Choose,Misc
+Navigate,移动,Navigate,Misc
+Objectives,目标,Objectives,Misc
+Reset Training,重置训练,ResetTraining,Misc
+Skip Training,跳过训练,SkipTraining,Misc
+Collecting crystals enables more skills in all weapons for all players. There are three crystals to be earned in each trial.,收集水晶能让玩家的所有武器觉醒更多的技能。每项试炼都能收集到三颗水晶。,CollectCrystals,Misc
+"Bombs are dangerous for all who inhabit the arena, remember to place the orb often when calling them.",炸弹对所有角斗场里的人来说都是件危险的东西，别忘了在呼唤它们时多多放置光球。,DeathTip0,DeathTips
+"Activator shrines usually trigger some event when lit, be sure to be ready before lighting them.",激活神坛在被点亮时通常会触发某些事件，所以在点亮前一定要做好充分的准备。,DeathTip1,DeathTips
+Remember to keep spawner shrines disrupted or you will be overwhelmed.,别忘了对孵化神坛进行持续干扰，不然你会被敌人的数量淹没的。,DeathTip2,DeathTips
+"Swarmers become more dangerous when they crowd together, be sure to crop their population often.",成群的蜂拥者会变得更危险，一定要常常削减它们的数量。,DeathTip3,DeathTips
+"It helps to assign a Boss-watcher among you, who calls out when Wrathhoof stomps.",在你身边安排个Boss观测器会很有用，它会在怒蹄要使用践踏时发出呼叫。,DeathTip4,DeathTips
+Calling the orb immediately after being charged will make sure that you get free as fast as possible.,被撞倒后立即呼唤光球能确保你尽快脱身。,DeathTip5,DeathTips
+Some abilities and classes are great for eliminating groups of swarmers at a time.,某些能力和职业对成群的蜂拥者非常有优势。,DeathTip6,DeathTips
+The bow will need protection from the swarmers.,需要从蜂拥者那保护好弓箭。,DeathTip7,DeathTips
+Keeping constant control of the mist is essential for defeating it.,保持对雾气的控制是击败它的关键。,DeathTip8,DeathTips
+Position yourselves on opposite sides of the mist and alternately call the orb to control the mist.,边让自己到雾气对面，边呼唤光球来控制雾气。,DeathTip9,DeathTips
+"Be sure not to get caught in dead ends, they have that name for a reason.",别在死路中被抓住，死字可不是白叫的。,DeathTip10,DeathTips
+"The brawler is easy to dodge when isolated, but becomes deadly with backup.",单独一个争斗者很容易躲避，但它有了支援后就会变得非常致命。,DeathTip11,DeathTips
+Calling the orb immediately after being charged ensures the swiftest possible escape.,被撞倒后立即呼唤光球能确保你迅速逃开。,DeathTip12,DeathTips
+"If you get charged, make sure that your teammates know not to use the orb, so that you can free yourself.",你要是被撞倒了，一定别让你的队友使用光球，这样你才能让自己脱身。,DeathTip13,DeathTips
+"Acid Imps are easily taken care of when focusing on dodging them, but they become a nuisance if ignored.",只要集中精神躲避，很容易就能应付酸液魔精，但要是忽视的话，它们就会变得非常麻烦。,DeathTip14,DeathTips
+"When dealing with Acid Imps, having a decoy can sometimes help to close on them.",在对付酸液魔精时使用诱饵偶尔能帮你靠近他们。,DeathTip15,DeathTips
+To keep down the mist it helps to place the orb on one side of the mist and move to the other side before calling.,把光球放在雾气一侧，然后移动到另外一侧进行呼唤，这种做法能帮你控制住雾气。,DeathTip16,DeathTips
+"The heal shrine can completely restore your health every 40th second, be sure to make good use of it.",只需40秒治愈神坛就能完全恢复你的生命，一定要好好利用它。,DeathTip17,DeathTips
+"To fully make use of the heal shrine, the team must stay together for the duration.",为了充分利用治愈神坛，治疗期间队伍最好待在一起。,DeathTip18,DeathTips
+"Shockwave shrines can not only give you a break in the action, but also kill enemies that are launched in to the wall.",震波神坛不仅能在行动中给你喘息的机会，还能把撞到墙上的敌人给消灭掉。,DeathTip19,DeathTips
+Leaving the orb on the other side of the shockwave shrine gives you the possibility to trigger it at any time by calling.,把光球留在震波神坛的一侧，这样你就能随时呼唤光球来触发神坛了。,DeathTip20,DeathTips
+The Volatile Runners can be quite devastating to their own ranks if caused to explode to early.,如果能早点引发爆炸的话，爆炸狂奔者对于它们的队伍来说会是个大灾难。,DeathTip21,DeathTips
+"Any damage causes the volatile runner to explode prematurely, use this for justice!",任何伤害都能让爆炸狂奔者提早爆炸，把它用在正义事业上吧！,DeathTip22,DeathTips
+"Sometimes, pausing the game to figure out a particularly hard puzzle can be helpful.",游戏暂停在解决特难谜题方面非常有帮助。,DeathTip23,DeathTips
+Make sure to inform your fellow gladiators if you want them to call the orb.,如果你想要你的角斗士同伴呼唤光球的话，一定要通知他们。,DeathTip24,DeathTips
+You can freely swap your weapon at any time and keep the same amount of unlocks.,你随时都能换武器，而且解锁不会因此变少。,DeathTip25,DeathTips
+You can read about weapons or skills using the info button from the skill menu.,你可以用技能菜单中的信息键来阅读武器或技能的相关情报。,DeathTip26,DeathTips
+"When the orb is attached to a cube shrine, remember that calling it to a position makes the shrine move, while calling the orb to you will make it leave the shrine.",当光球和立体神坛联在一起时，别忘了呼唤光球来移动神坛。当你召回光球时，它会离开神坛。,DeathTip27,DeathTips
+"If you're having trouble with a Trial, try looking around the arena for power shrines or alternate approaches to completing the objectives.",如果你在试炼中遇到了困难，尝试在角斗场周围找找看力量神坛或者以替换方案完成目标。,DeathTip28,DeathTips
+Completing objectives oftentimes leads to the trial progressing to a harder stage. Don't rush them if you're not ready for the heat.,经常完成任务会让试炼进度往更难的方向推进。你要是还没准备好的话，就不要把进度推得太猛。,DeathTip29,DeathTips
+"When the deadline is present, think carefully before calling the orb, it might hurt your allies.",在死线出现时，呼唤光球一定要慎重，它有可能会伤害到你的同伴。,DeathTip30,DeathTips
+"The Living Statues are impervious to your attacks, you will have to use another source of damage if you wish to fight them",你的攻击对活体雕像无效，你要是想和它们战斗的话，就得依靠其它伤害手段。,DeathTip31,DeathTips
+"Keep an eye on the orb throughout the fight, Slarth may be using it against you..",整场战斗你都得盯紧光球，斯拉思有可能会用它来对付你……,DeathTip32,DeathTips
+"Don't let Slarth steal too much of your health when he pins you. To escape quickly you must keep the orb close, if you dare..",当斯拉思固定你时别让他偷去太多生命。为了尽快脱离你得让光球靠近你，如果你够勇气的话……,DeathTip33,DeathTips
+"Slarth has no compunctions towards sacrificing swarmers for his own gain, sometimes, killing them fast can prevent him from using his flesh blink.",斯拉思为了自己会毫不犹豫地牺牲掉蜂拥者，有时候，快速消灭它们能阻止他使用瞬身术。,DeathTip34,DeathTips
+"Don't fight too close to infested shrines, they heal enemies.",战斗时别过于靠近那些受感染的神坛，它们会给敌人回血。,DeathTip35,DeathTips
+"Be careful when cleansing infested shrines, as knockback can push you out of the deadline.",在净化受感染的神坛时要当心，因为它有可能会把你击退至死线之外。,DeathTip36,DeathTips
+"The gasses in the blood swamp aren't deadly, but they're suffocating enough that you can't run inside them.",血沼里的气体并不会致命，不过它会让你呼吸困难，无法在它里面跑动。,DeathTip37,DeathTips
+Remember that staying near an infested srhine as the infestation is cleansed will heal you once the energy of the shrine is released.,别忘了当你待在受感染的神坛附近时，一旦神坛被净化，它释放的能量能够恢复你的生命。,DeathTip38,DeathTips
+"Don't get caught in both the mist and a gas cloud, you will almost be unable to move.",别被雾气和毒云抓住，不然你很难移动。,DeathTip39,DeathTips
+"Be careful when inside gas clouds, it will be harder to dodge the most powerful enemy attacks.",身处毒云中时要小心，强力敌人的攻击会变得很难躲避。,DeathTip40,DeathTips
+"The warlocks are powerful spellcasters but weak of body, an offensive strategy is recommended",虽然术士是非常强力的魔法咏唱者，但它的肉体却很脆弱，推荐使用较为主动的战法。,DeathTip41,DeathTips
+"Warlocks are elusive, and will do their best to escape you using their Flesh Blink. Deny them the opportunity by removing swarmers from the arena before you corner them.",术士是非常难抓到的，它们会全力使用瞬身术来避开你。要想把它们逼进绝路，就要先除掉角斗场的蜂拥者，以免给它们使用瞬身术的机会。,DeathTip42,DeathTips
+The knockback from a Shockwave shrine can be used to kill boomers if they hit a wall.,被震波神坛击退的敌群如果撞到墙就会被消灭。,DeathTip43,DeathTips
+Light shrines can give you more space while cleansing infested shrines.,点亮神坛在你净化神坛时给予你更多空间。,DeathTip44,DeathTips
+Big enemies like the Brawler or Taurus gain the most healing from fighting near infested shrines because they can't be killed quickly,由于你无法快速消灭像争斗者或塔卢斯这样的大家伙，所以它们能从受感染的神坛中获得最多的治疗。,DeathTip45,DeathTips
+"Be careful around orb barriers when warlocks are close, if the orb cannot get to you as you get pinned there is no mercy from the arena masters",当术士靠近时要担心周围的光球屏障，一旦你被固定且光球无法到达你的位置，可别指望角斗场主人会怜悯你。,DeathTip46,DeathTips
+"Be careful around orb barriers when a warlock is close, if the orb cannot get to you as you get pinned, only allies can save you by disrupting his casting.",当术士靠近时要担心周围的光球屏障，一旦你被固定且光球无法到达你的位置，就只能依靠同伴来打断他的施法。,DeathTip47,DeathTips
+"Graw is also healed by infested shrines, and his size makes it difficult to lead him around them. Likely, your only chance to avoid it is to cleanse them..",受感染的神坛也能为葛洛恢复生命，而且因为他体型的缘故，你很难让他绕开神坛。也就是说，要避免这种情况的唯一方法就是净化它们……,DeathTip48,DeathTips
+"If you don't take care of the Elite Volatile Swarmer eggs often, you will find their population growing out of control.",你要是未对精英爆炸蜂拥者的卵进行控制的话，你将发现它们的数量增长会失去控制。,DeathTip49,DeathTips
+Having trouble removing the Elite Volatile Runners? Maybe the orb can be of help..,对除掉精英爆炸狂奔者感到棘手？也许那颗光球能帮得上忙……,DeathTip50,DeathTips
+When Graw begins his summoning phase you will have to balance removing Elite Volatile Runners and disrupting spawner shrines. But the most important thing is to keep them from getting to him!,当格劳开始他的召唤阶段时，你要平衡好除掉精英爆炸狂奔者以及破坏孵化者神坛两项任务。不过最重要的是它们去到格劳那里！,DeathTip51,DeathTips
+Shield brawlers are most powerful when other enemies are near that can benefit from the buff.,持盾争斗者在附近有其它敌人时最为强大，因为那些敌人能获得Buff的加持。,DeathTip52,DeathTips
+Remember that Shield Brawlers heal the damage they have taken if you stop attacking them.,别忘了持盾争斗者在你没有攻击它们时会给自己加血。,DeathTip53,DeathTips
+"If something is very hard, consider going back and earning more crystals from previous trials. New skills or perks might help.",要是遇到了棘手的关卡，可以考虑回到先前的试炼去收集更多的水晶。新的技能或特性也许会有帮助。,DeathTip54,DeathTips
+Sort:,排序：,gui_words_sort:,GUI_words
+Names,名称,gui_words_names,GUI_words
+Time,限时,gui_words_time,GUI_words
+Total,总计,gui_words_total,GUI_words
+Trials Beat,通关\n试炼,gui_ranking_trialsbeat,GUI_words
+Trial,试炼,gui_words_trial,GUI_words
+Mode,模式,gui_words_mode,GUI_words
+End,结尾,gui_words_end,GUI_words
+Tournament,比试,gui_words_tournament,GUI_words
+Total Time,总计时间,gui_words_totaltime,GUI_words
+Success,成功,gui_words_success,GUI_words
+Arena,角斗场,gui_words_Arena,GUI_words
+Crystal Information,水晶信息,gui_words_crystalinfo,GUI_words
+Complete the Trial,完成试炼,gui_words_completetrial,GUI_words
+Your time:,你的时间：,gui_words_yourtime:,GUI_words
+Your best:,最佳成绩：,gui_words_yourbest:,GUI_words
+Leaderboards not supported,不支持排行榜,gui_words_noleaderboards,GUI_words
+Loading,加载中,gui_words_loading,GUI_words
+The Amphitheatre,圆形角斗场,gui_survival_Amphitheatre,GUI_Survival
+Crystal Limit,水晶限制,gui_survival_crystallimit,GUI_Survival
+Beautiful,美丽,launcher_quality_beautiful,GUI_launcher
+High,高,launcher_quality_high,GUI_launcher
+Medium,中,launcher_quality_medium,GUI_launcher
+Ugly but fast,丑陋但快速,launcher_quality_ugly,GUI_launcher
+Activator,激活装置,1_activator_name,Trial_info
+Vandalism,蓄意破坏,2_vandalism_name,Trial_info
+Tremors,震荡波,3_tremors_name,Trial_info
+Blastoff,爆破,4_blastoff_name,Trial_info
+A Slow Death,慢性死亡,5_aslowdeath_name,Trial_info
+Feel the Wrath,感受愤怒,6_feelthewrath_name,Trial_info
+Lines in the Sand,沙中圆线,7_linesinthesand_name,Trial_info
+Power Crystal,力量水晶,8_powercrystal_name,Trial_info
+Revenge,石之复仇,9_revenge_name,Trial_info
+Speed or Caution,速度或谨慎,10_speedorcaution_name,Trial_info
+Run for Cover,寻找掩体,11_runforcover_name,Trial_info
+The Warlock,术士,12_thewarlock_name,Trial_info
+Infestation,感染,13_infestation_name,Trial_info
+A Slow Ride,缓慢之旅,14_aslowride_name,Trial_info
+Wall of Decay,腐烂之墙,15_wallofdecay_name,Trial_info
+Overgrowth,过度生长,16_overgrowth_name,Trial_info
+Three Choices,三种选择,17_threechoices_name,Trial_info
+Lunch Time,午餐时间,18_lunchtime_name,Trial_info
+Dark Maze,黑暗迷宫,19_darkmaze_name,Trial_info
+Spiritual Arrest,精神拘禁,20_spiritualarrest_name,Trial_info
+Blood Machine,血腥机器,21_bloodmachine_name,Trial_info
+Rats in a Maze,迷宫老鼠,22_ratsinamaze_name,Trial_info
+Tunnel Vision,隧道视野,23_tunnelvision_name,Trial_info
+A Bone to Pick,泥骨不化,24_abonetopick_name,Trial_info
+The Master,角斗场主人,25_themaster_name,Trial_info
+Keyboard Setup,键盘设置,keyboard_setup,GUI_words
+Recommended crystals,推荐水晶,recommended_crystals,GUI_words
+You cannot join a full game.,你不能加入满人游戏。,cannot_join_full_game,Warning
+You cannot delete the default profile.,你不能删除默认档案。,no_delete_default,Warning
+Start stream,开始串流,start_stream,GUI_words
+Stop stream,停止串流,stop_stream,GUI_words
+Stopping,停止中,words_stopping,GUI_words
+Logout,登出,words_logout,GUI_words
+Your stream stopped.. Maybe adjust the stream quality,你的串流中止了……也许要适应串流质量。,stream_stopped_due_to_quality,Warning
+Twitch authentication failed. It might be wrong password and/or username,Twitch授权失败。有可能是用户名或密码错误。,twitch_authentication_failed,Warning
+Failed initializing twitch..,初始化Twitch失败。,twitch_initialization_failed,Warning
+Valid TwitchID. Good luck!,有效的Twitch ID。祝你好运！,valid_twitch,Warning
+"Invalid TwitchID, try again..",无效的Twitch ID，请重新尝试……,invalid_twitch,Warning
+Defeat,战败,gui_words_defeat,GUI_words
+Complete the Trial in less than:,完成试炼且用时少于：,gui_words_completetriallessthan,GUI_words
+New unlocks!,新解锁！,NewUnlocks,Misc
+Est. Rank,Est. 等级,EstRank,Misc
+Boss,Boss,Boss,Misc
+Last Boss,最后的Boss,LastBoss,Misc
+Final time,最终时间,FinalTime,Misc
+Retry,重试,Retry,Misc
+Change Skills,更改技能,ChangeSkills,Misc
+Microphone,话筒,words_microphone,GUI_words
+Webcam,网络摄影机,words_webcam,GUI_words
+Enabled,启用,words_enabled,GUI_words
+Broadcast only,仅广播,words_broadcastonly,GUI_words
+Create Twitch.tv\r\n\raccount,创建Twitch.tv\r\n\r帐号,words_create_twitch_account,GUI_words
+Use built-in stream,使用内建串流,words_use_builtin_stream,GUI_words
+Time to beat,限时挑战,TimeToBeat,Misc
+Complete to reveal,该挑战会在试炼完成后揭示,CompleteToReveal,Misc
+The Amphitheatre,圆形角斗场,26_amphitheathre_name,Trial_info
+Twitch\nStream,Twitch\n串流,TwitchStream,Misc
+Back to Hall of Trials,返回试炼大厅,BackToHOT,Misc
+Not yet completed,还未完成,NotYetCompleted,Misc
+Defeat the previous boss and earn 40 crystals to open,击败前面的Boss并获取40颗水晶来开启,LastBossLocked,Trial_Unlock
+Beat 4 Trials In Chamber To Unlock.,通过房间里的4个试炼来解锁,BossLocked,Trial_Unlock
+Beat first Trial.,打通第一项试炼。,FirstChamberLocked,Trial_Unlock
+Perk Slot,特性槽,PerkSlot,Menu_Skills
+Ability Slot,能力槽,AbilitySlot,Menu_Skills
+Perk,特性,Perk,Menu_Skills
+Ability,能力,Ability,Menu_Skills
+a perk.,一个特性。,APerk,Menu_Skills
+an ability.,一项能力。,AnAbility,Menu_Skills
+Use the information at the bottom of the menu in order to equip § onto this slot,利用菜单底部信息来将§装备至此。,UseMouseToDrag,Menu_Skills
+Cooldown,冷却,Cooldown,Menu_Skills
+sec,秒,SecondsShort,Menu_Skills
+To unlock this perk you need § crystals,你需要§颗水晶来解锁该特性,ToUnlockPerk,Menu_Skills
+To unlock this ability you need § crystals,你需要§颗水晶来解锁该能力,ToUnlockAbility,Menu_Skills
+To unlock this slot you need § crystals,你需要§颗水晶来解锁该空槽,ToUnlockSlot,Menu_Skills
+Decline,衰退,Decline,GUI_dropin
+Block!,格挡！,Block,Misc
+Immune!,免疫！,Immune,Misc
+Reflect!,反射！,Reflect,Misc
+Resurrect in,恢复倒计：,ResurrectIn,Misc
+"Not available, yet",暂不可用,NotAvailableYet,Misc
+Accept,接受,Accept,Misc
+Current:,当前：,gui_words_current:,GUI_words
+"Can hit multiple enemies, but it needs to charge up between attacks.\r\n\r\nGains one charge per [FFD700]0.1[-] second up to [FFD700]20[-] charges.\r\n\r\nDamage: [FFD700]5[-] + [FFD700]1[-] per charge\r\nKnockback: [FFD700]5[-] + [FFD700]2[-] per charge\r\nMarks: [FFD700]1[-]",能攻击复数敌人，但攻击间需要充能。\r\n\r\n每[FFD700]0.1[-]秒能获得一点充能，最多能获得[FFD700]20[-]点充能。\r\n\r\n伤害：[FFD700]5[-] + [FFD700]1[-] x 充能\r\n击退：[FFD700]5[-] + [FFD700]2[-] x 充能\r\n印记：[FFD700]1[-],volcanic_hammer,Ability_Hammer
+"Stretch to gain a charge every [FFD700]0.1[-] second.\r\n\r\nNeeds [FFD700]5[-] charges to shoot, can gain a max of [FFD700]15[-]\r\n\r\nDamage: [FFD700]1[-] per charge (+[FFD700]10[-] on fully stretched)\r\nKnockback: [FFD700]3[-] per charge\r\n\r\nStretching reduces movement speed.",每拉弓[FFD700]0.1[-]秒可获得一点蓄力。\r\n\r\n需要[FFD700]5[-]点蓄力才可以射出，最多能获得[FFD700]15[-]点蓄力。\r\n\r\n伤害：[FFD700]1[-] x 蓄力值（满蓄力拉弓+[FFD700]10[-]）\r\n击退：[FFD700]3[-] x 蓄力值\r\n\r\n拉弓会降低移动速度。,storm_bow,Ability_Bow
+Attacks per second: [FFD700]5[-]\r\nDamage: [FFD700]2[-]\r\nKnockback: [FFD700]1[-]\r\nMarks: [FFD700]1[-],每秒攻击：[FFD700]5[-]\r\n伤害：[FFD700]2[-]\r\n击退：[FFD700]1[-]\r\n印记：[FFD700]1[-],spirit_claws,Ability_Blades
+Attacks per second: [FFD700]2[-]\r\nDamage: [FFD700]8[-]\r\nKnockback: [FFD700]15[-]\r\nMarks: [FFD700]1[-]\r\n\r\nShield also gains Frost Protection every [FFD700]3[-] second\r\nFrost protection blocks an attack.,每秒攻击：[FFD700]2[-]\r\n伤害：[FFD700]8[-]\r\n击退：[FFD700]15[-]\r\n印记：[FFD700]1[-]\r\n\r\n盾牌每[FFD700]3[-]秒会获得冰霜防护。\r\n冰霜防护能格挡一次攻击。,frost_shield,Ability_Shield
+Next,下一个,Next,Misc
+Restart,重新开始,Restart,Misc
+Function:,作用：,Function:,Setup_Input
+Horizontal Aim,垂直瞄准,HorizontalAim,Setup_Input
+Press every button on your controller,按下你控制器里的所有按键,PressEveryButton,Setup_Input
+Reading dead values - do not touch the controller,正读取死区值——请勿触碰控制器,ReadingDeadValues,Setup_Input
+Press all buttons and flick all axis\n\nInputs received §\nTime left §,按下全部按键并快推所有轴杆\n\n得到输入 §\n时间剩余 §,ButtonAndAxis,Setup_Input
+To setup the controller you need to do 2 steps:\n- Touch all buttons and sticks on your controller\n- Setup your controller,要设置控制器你需要完成2个步骤：\n— 触碰控制器上的所有按键和摇杆\n— 设置你的控制器,ToSetup,Setup_Input
+Touch the controller to begin,触碰控制器来开始,TouchToBegin,Setup_Input
+Basic attack,基础攻击,basicattack,Setup_Input
+Ability 1,能力 1,ability1,Setup_Input
+Ability 2,能力 2,ability2,Setup_Input
+Ability 3,能力 3,ability3,Setup_Input
+Orb call,光球呼唤,callorb,Setup_Input
+Skill menu,技能菜单,skillmenu,Setup_Input
+Pause menu,暂停菜单,pausemenu,Setup_Input
+Menu Up,菜单上,up,Setup_Input
+Menu Left,菜单左,left,Setup_Input
+Menu Down,菜单下,down,Setup_Input
+Menu Right,菜单右,right,Setup_Input
+Select/Confirm,选择/确认,select,Setup_Input
+Spirit Claws,灵魂爪,NamePlayerClawSlash,Ability_Blades
+Power Kick,强力踢击,NamePlayerClawKick,Ability_Blades
+Strafe,扫荡,NamePlayerClawStrafe,Ability_Blades
+Healing Blast,治愈爆发,NamePlayerHealPulse,Ability_Blades
+Spirit Surge,灵魂猛进,NamePlayerBlink,Ability_Blades
+Spirit Mirage,灵魂幻影,NamePlayerClawSpiritDecoy,Ability_Blades
+Mind Mine,心灵地雷,NamePlayerClawMindMine,Ability_Blades
+Energy Bomb,能量炸弹,NamePlayerClawEnergyBomb,Ability_Blades
+Malign Spirit,恶毒灵魂,NamePlayerClawMalignSpirit,Ability_Blades
+Rip Them Apart,撕裂,NamePlayerClawRipThemApart,Ability_Blades
+Fury,暴怒,NamePlayerClawFury,Ability_Blades
+Sucker Punch,吸盘拳,NamePlayerClawSuckerPunch,Ability_Blades
+Omnimarking,全方位印记,NamePlayerClawOmniMarking,Ability_Blades
+Vampiric,吸血,NamePlayerClawVampiric,Ability_Blades
+Spirit Melt,灵魂融化,NamePlayerClawSpiritMelt,Ability_Blades
+Wardancer,战舞者,NamePlayerClawFast,Ability_Blades
+Poisoned Blades,淬毒利刃,NamePlayerClawPoisonedBlades,Ability_Blades
+Storm Bow,风暴弓,NamePlayerChargeShotNetwork,Ability_Bow
+Chain Lightning Arrow,连锁闪电箭,NameAbility_JumperArrow,Ability_Bow
+Nova Bolt,新星霹雳,NameAbility_ForceExplosion,Ability_Bow
+Invisibility,隐身,NamePlayerBowInvisibility,Ability_Bow
+Healing Arrow Totem,治愈箭图腾,NamePlayerHealingTotemShot,Ability_Bow
+Lightning Storm,闪电风暴,NamePlayerStarfall,Ability_Bow
+Yellow / Purple Lightning,黄色/紫色闪电,NamePlayerBowYellowPurpleLightning,Ability_Bow
+Overcharge,电能过载,NamePlayerBowOvercharge,Ability_Bow
+Lightning Razor,闪电剃刀,NamePlayerBowLightningRazor,Ability_Bow
+Hitting the Wound,伤口一击,NamePlayerBowHittingTheWound,Ability_Bow
+Deadly Calm,致命沉着,NamePlayerBowDeadlyCalm,Ability_Bow
+Unstoppable Thunder,破竹闪电,NamePlayerBowPiercingTheMark,Ability_Bow
+Explosive Energy,爆炸能量,NamePlayerBowExplosiveEnergy,Ability_Bow
+Ranger,游侠,NamePlayerBowRanger,Ability_Bow
+Triple Shot,三重射击,NamePlayerBowSparklingCompanion,Ability_Bow
+Shortened Focus,缩短聚焦,NamePlayerBowDeadlyMove,Ability_Bow
+Storm Curse,风暴诅咒,NamePlayerBowDotArrow,Ability_Bow
+Volcanic Hammer,火山重锤,NamePlayerHammerBlowAlt,Ability_Hammer
+Volcanic Slam,火山猛击,NamePlayerHammerFreezeStrike,Ability_Hammer
+Flamenado,火焰之舞,NamePlayerHammerWhirlwind,Ability_Hammer
+Call Meteor,流星呼唤,NamePlayerGrenadeThrow,Ability_Hammer
+Burning Aura,燃烧气场,NamePlayerHammerBurningAura,Ability_Hammer
+Core Taunt,核心嘲讽,NamePlayerHammerCoreTaunt,Ability_Hammer
+Warmth Shock,温暖冲击,NamePlayerHammerWarmthShock,Ability_Hammer
+War Shout,战吼,NamePlayerHammerWarShout,Ability_Hammer
+Flame/Lava,烈焰/熔岩,NamePlayerHammerFlameOrLava,Ability_Hammer
+Cleaving Marks,屠戮印记,NamePlayerHammerCleavingMarks,Ability_Hammer
+Destruction Battery,毁灭电池,NamePlayerHammerDestructionBattery,Ability_Hammer
+Flame Spurs,火焰喷射,NamePlayerHammerFlameSpurs,Ability_Hammer
+Refresher,充能焕新,NamePlayerHammerRefresher,Ability_Hammer
+Knockbacker,退敌能手,NamePlayerHammerKnockbacker,Ability_Hammer
+Combat Swiftness,战斗敏捷,NamePlayerHammerCombatSwiftness,Ability_Hammer
+Let Them Come,放马过来,NamePlayerHammerLetThemCome,Ability_Hammer
+Swing Fury,挥动狂怒,NamePlayerHammerSwingFury,Ability_Hammer
+Frost Shield,冰霜盾,NamePlayerShieldBlock,Ability_Shield
+Shield Throw,飞盾,NamePlayerShieldThrowShield,Ability_Shield
+Frost Cube,冰霜立方,NamePlayerShieldFrostBomb,Ability_Shield
+Slick Moves,流畅动作,NamePlayerShieldSpeedAura,Ability_Shield
+Avalanche,雪崩,NamePlayerShieldColdCharge,Ability_Shield
+Ground Slam,地面猛击,NamePlayerShieldGroundInvocation,Ability_Shield
+Ice'n'guard,冰与防,NamePlayerShieldMartyr,Ability_Shield
+Cold Leap,寒冷跳跃,NamePlayerShieldColdLeap,Ability_Shield
+Icy Execution,冰冻处决,NamePlayerShieldShieldSlam,Ability_Shield
+Ice And Blood,冰与血,NamePlayerShieldIceAndBlood,Ability_Shield
+Frost Counter,冰霜反击,NamePlayerShieldCounterAttack,Ability_Shield
+Icing,结冰,NamePlayerShieldAddedPhotonEnergy,Ability_Shield
+Reckless Frenzy,鲁莽狂暴,NamePlayerShieldRecklessFrenzy,Ability_Shield
+Frost Smash,冰霜重击,NamePlayerShieldFrostSmash,Ability_Shield
+Shield Bash,盾击,NamePlayerShieldBash,Ability_Shield
+Stalwart,坚定,NamePlayerShieldFrostGuardian,Ability_Shield
+Freezer,冰柜,NamePlayerShieldFreezer,Ability_Shield
+Game Paused,游戏已暂停,GamePaused,Misc
+Closed,已关闭,Closed,Misc
+Default,默认,default,Setup_Input
+You may choose a new key to bind to this action now.,你现在可以选择新的按键来绑定此动作。,input_setup_tooltip,Setup_Input
+Step on the center plate,站到中间圆板上,orb_objectives_tut_1_steponplateSP,Objectives_Tutorial
+Everyone step on the plate $i4/$i5,所有人都站到圆板上（$i4/$i5）,orb_objectives_tut_1_steponplateMP,Objectives_Tutorial
+"Everyone, apply your abilities",大家，用你们的能力,orb_objectives_tut_2_skillMP,Objectives_Tutorial_skill
+Search range,搜索范围,search_range,GUI_words
+AND THE WINNERS ARE!,冠军就是！,Winner_Plural,Endless_Survival
+AND THE WINNER IS!,冠军就是！,Winner_Singular,Endless_Survival
+TRAINING DONE - NOW INVITE A FRIEND!,训练完成——现在去邀请好友吧！,Winner_Solo,Endless_Survival
+You can access the chat using the 'Enter' button. GL HF!,你能用回车键进入聊天。祝你玩得开心！,Chat_WelcomeMessage,Misc
+Some unknown error occurred.,遇到了未知错误。,connectiontester_Error,ConnectionTester
+"Test result undetermined, still in progress.",测试结果未确定，仍在继续中。,connectiontester_Undetermined,ConnectionTester
+Public IP address detected and game listen port is accessible to the internet.,已检测到公共IP且游戏监听端口能接入网络。,connectiontester_PublicIPIsConnectable,ConnectionTester
+Public IP address detected but the port is not connectable from the internet.,已检测到公共IP但游戏监听端口未能接入网络。,connectiontester_PublicIPPortBlocked,ConnectionTester
+Public IP address detected but server is not initialized and no port is listening.,已检测到公共IP但服务器未初始化且无监听端口。,connectiontester_PublicIPNoServerStarted,ConnectionTester
+"Port-restricted NAT type, can do NAT punchthrough to everyone except symmetric.",端口受限NAT型，除了对称型以外，能对所有人进行NAT穿透。,connectiontester_LimitedNATPunchthroughPortRestricted,ConnectionTester
+"Symmetric NAT type, cannot do NAT punchthrough to other symmetric types nor port restricted type.",对称NAT型，无法对其它对称型以及端口受限型进行NAT穿透。,connectiontester_LimitedNATPunchthroughSymmetric,ConnectionTester
+"Full cone type, NAT punchthrough fully supported.",完全锥形，完全支持NAT穿透。,connectiontester_NATpunchthroughFullCone,ConnectionTester
+"Address-restricted cone type, NAT punchthrough fully supported.",地址限制锥型，完全支持NAT穿透。,connectiontester_NATpunchthroughAddressRestrictedCone,ConnectionTester
+Details,详情,details,GUI_words
+Connection:,连接：,connection:,GUI_words
+Could not locate Steam. To play online and get on leaderboards you have to log in to Steam.,无法找到Steam。要想在线游玩或使用排行榜，你必须登陆Steam。,could_not_locate_steam,Warning_Steam
+"Could not detect Steam login, you are now playing offline mode. If you wish to play online, please log into Steam.",没有检测到Steam登陆，你当前处于离线模式。如果你想在线游玩，请登陆进Steam。,offline_warning,Warning_Offline
+Credits,制作名单,credits,GUI_words
+No games found.,未找到游戏,no_games,Misc
+Find Co-op Game,寻找合作游戏,words_matchmaking,GUI_words_matchmaking
+Toggle,切换,words_toggle,GUI_words_toggle
+Wait Time,等待时间,words_waittime,GUI_words_waittime
+Estimated Wait Time,预计等待时间,words_estwaittime,GUI_words_estwaittime
+That feature is not available in offline mode,该功能无法在离线模式中使用,words_NotAvailableOffline,GUI_words_NotAvailableOffline
+"Internet connection lost, you are now playing offline mode",网络失去连接，你当前处于离线模式,words_OfflineGeneral,GUI_words_OfflineGeneral
+Checking access to Xbox Live,Checking access to Xbox Live,words_CheckingXboxOneServices,GUI_words_CheckingXboxOneServices
+"Access to Xbox Live could not be established, setting the game to offline mode. Please reestablish connection to the internet and restart the game to access online features. Saves and achievements will still be stored.","Access to Xbox Live could not be established, setting the game to offline mode. Please reestablish connection to the internet and restart the game to access online features. Saves and achievements will still be stored.",words_NoXboxServicesAccess,GUI_words_NoXboxServicesAccess
+Failed at making session - Most likely due to lack of internet connection.,创建会话失败——很可能是因为没有网络连接。,words_FailedAtMakingSession,GUI_words_FailedAtMakingSession
+Press Any Button,按下任意键,PressAnyButton,Misc
+Stop searching?,停止搜索？,words_StopSearching,GUI_words_StopSearching
+Multiplayer Game,多人游戏,words_MultiplayerGame,GUI_words_MultiplayerGame
+Checking user,检查用户中,words_CheckingUser,GUI_words_CheckingUser
+Private Co-op Game,私人合作游戏,words_createserver,GUI_words_createserver
+Survival Mode,生存模式,upperText10,LoadingTip
+tip12image,tip12image,spriteName10,LoadingTip
+Try the different Survival Modes. You can access them from the Main Menu.,尝试不同的生存模式。你可以从主菜单中进入。,lowerText10,LoadingTip
+Grinders incoming in $i4 seconds,尖刺装置会在$i4秒后到来,GrindersIncoming,Endless
+Boss Incoming!,Boss要来了！,BossIncoming,Endless
+Disrupt Beam to deactivate it.,打断光束以停止其工作。,DisruptBeam,Endless
+This fight totally isn't fair. \nBlame the terrible game designers.,这场战斗毫无公平可言。\n去谴责那些糟糕的游戏设计师吧。,EndlessNotFair,Endless
+It's also random.,这也是随机的。,EndlessRandom,Endless
+Do not let the number of enemies exceed 20,别让敌人的数量超过20,NoMoreThanTwenty,Endless
+Next wave in $i4,$i4后下一波,NextWave,Endless
+Wave $i4,第$i4波,Wave,Endless
+The Mist is expanding,雾气正在扩散,Mist,Endless
+The Mist is expanding faster,雾气正在加速扩散,Mist2,Endless
+Too many enemies alive! You will die in $i4 seconds,没死的敌人太多了！你将在$i4秒后死亡,Warning,Endless
+This is practice mode. More players are needed to start Last Man Standing,这是练习模式。需要更多玩家才能开始“最后的幸存者”,VersusIntroSingle,Endless
+Stand on the plates to start,站在板上开始,VersusIntroMulti,Endless
+Stand on the plates with your teammate to start,和你的同伴站在板上开始,VersusObjective,Endless
+"this game was made to be challenging, and you WILL die trying to beat it... repeatedly! having a buddy to share in your trials is recommended. -sincerely",该游戏被设计得非常有挑战性，为了打通它你需要不断尝试……并不断死亡！推荐让你的朋友帮你分担试炼。——真心这样认为,IntroScreenMessage,Misc
+"Sir Kristos the Brave.\n Few fight alone in the arenas, for long at least.\n Sir Kristos however, became the first solo Champion\n and went on to win several solo championships.\n Unfortunately, nobody stays a champion.",勇者克里斯托斯先生\n几乎没有人会在角斗场里单打独斗，至少很久都没有。\n然而，克里斯托斯先生却成为了第一位单打冠军，\n且后来还赢得了数场单打比赛的胜利。\n可惜，没有人能一直是冠军。,HoTSirKristos,Misc
+"Bal'dur the Hideous.\n A swarmer pup caught by a cunning tribeswoman to replace\n her son for The Selection, Bal'dur was raised among tribesmen,\n learning discipline and intelligence beyond any swarmer.\n Despite their efforts, he left them with the words;\n ""Bal'dur hungry. Hope humans living down there. Humans tasty.""",丑者博德\n一位狡猾的部落女人捕获了一只蜂拥者幼崽来替代她儿子参与试炼，\n博德是由部落人养大的，他比任何蜂拥者都要懂得纪律与智慧。\n尽管人们付出了很多努力，但博德依然给他们留下了这些话：\n“博德好饿。希望那下面有人类居住。人类美味。”,HoTBaldur,Misc
+"Rhalst.\n Balfus' favorite Gladiator, not for his fighting skills,\n but for his mirth and charisma.\n The winner of multiple tournaments,\n no-one knows what happened to him.",拉尔斯特\n巴尔福斯最喜欢的角斗士，不是因为他的战斗技巧，\n而是因为他的欢笑与魅力。\n他是多场比赛的胜者，没人知道他出了什么事。,HoTRhalst,Misc
+"Tristor the Swift.\n He ruled the arena as if it was his own,\n but then he met a Cleaver.",迅者特里斯特\n他把角斗场当作是自己的地盘一样进行统治，\n但他后来遇到了屠夫。,HoTTristor,Misc
+Last Man Standing,最后的生还者,gui_survival_LastManStanding,GUI_Survival
+The Laser Pit,镭射深洞,gui_survival_Laser,GUI_Survival
+The Dungeon,地牢,gui_survival_Grinder,GUI_Survival
+Connection was lost to a controller. Please reconnect to keep playing.,控制器已失去连接。请重新连接以继续游玩。,controllerDisconnected,Warning
+Disconnecting due to timeout. Try again or visit http://steamcommunity.com/app/249990/discussions/0/792923683637174491/,因超时失去了连接。请重新尝试或访问 http://steamcommunity.com/app/249990/discussions/0/792923683637174491/,words_FailedAtMakingSessionPC,GUI_words_FailedAtMakingSession
+Couldn't load,无法读取,words_saveCorruptedTitle,GUI_words_saveCorrupted
+Save file was corrupted. Please send the output log to support@betadwarf.com or report it on the Steam forums :(,存档已损坏。请将输出日志发送至support@betadwarf.com或上报至Steam论坛 :(,words_saveCorruptedContent,GUI_words_saveCorrupted
+"Could not broadcast game, try creating a new one",无法广播游戏，请尝试创建新的,words_CouldnotBroadCastGame,GUI_words_Server
+Steam wheel only possible in Big Picture mode,Steam菊轮键盘只可能在大屏幕模式中使用,SteamWheelNotAvailable,GUI_words_Steam
+Changing the game name is not supported on this platform,该平台不支持修改游戏名称,ChangeGameNotSupported,GUI_words_Server
+Changing the profile name is not supported on this platform,该平台不支持修改档案名称,ChangeProfileNameNotSupported,GUI_words_Profile
+"The game cannot refresh the server list, since the current platform does not support a games list.",无法刷新服务器列表，因为当前平台不支持游戏列表。,NoServerListWarning,GUI_words_consoles
+Lobby data not fetched yet. Try again!,未获得大厅数据。请重新尝试！,LobbyNotReady,GUI_words
+The game is full :(,游戏已满人 :(,FullGame,GUI_words
+Invite friend is not available on the current platform..,当前平台不支持邀请好友……,InviteFriendNotAvailableOnPlatform,GUI_words
+"Someone is trying to join the game, you have to wait until the user is in.",某人正尝试加入游戏，你必须等待用户进入。,WaitForJoiningUser,GUI_words_Server
+Unavailable,不可用,Unavailable,GUI_words
+Failed at broadcasting..,广播失败……,TwitchFailedBroadcasting,GUI_words_Stream
+Could not login to Twitch.. Error:,无法登陆到Twitch……错误：,FailedTwitchLogin,GUI_words_Stream
+"Failed to handle controller!"", ""If this is a new controller, press Accept, else unplug the controller and plug it back in, then press cancel! \n\nIf this does NOT help, restart the game.",连接控制器失败！如果这是新的控制器，请按下接受键，不然请拔出控制器后再插回去，然后按下取消键！\n\n如果这样做还不管用，请重启游戏,FailedToHandleController,GUI_words_Controller
+A User signed out during play causing an error. Please sign in and recreate the game.,由于一位用户在游戏期间登出游戏引发了错误。请在登陆后重建游戏,UserSignedOutError,GUI_words
+"We have detected that your controller '§' is not a standard Xbox controller, however we will try to use it as such. If it does not feel right you can set your controller up by going to Settings->Setup Controller",我们检测到你的控制器“§”并非标准的Xbox控制器，但我们还是会尝试使用它。如果觉得哪里不对，你能在“设置->设置控制器”中设置你的控制器,NonStandardController,GUI_words
+"User logged out, returning to main menu",用户已登出，正返回主菜单,UserLoggedOut,GUI_words
+Leaving Matchmaking,离开配对中,LeavingMatchmaking,GUI_words
+Switch User,切换用户,SwitchUser,GUI_words
+"Only 3 local profiles are supported. If you wish to restart again, please delete an old one.",仅支持3个本地档案。你要是想重新开始，请删除一个旧的档案,max_profiles_reached,GUI_words_Profile
+"Warning, you will die in $i4 seconds!",警告，你会在$i4秒后死亡！,Toomanyenemies,gui_words
+Switch Profile,切换档案,SwitchUser2,GUI_words
+Switch Xbox Profile,Switch Xbox Profile,SwitchUser3,GUI_words
+Local Profiles,本地档案,LocalProfiles,GUI_words
+"Holy moly, we encountered corrupt data! This really shouldn't have happened and we'd appreciate if you sent us a mail with the steps that led to this point. The adress is support@betadwarf.com. We're really sorrry :(",天啊，我们遇到了损坏的数据！真不应该出现这种状况，要是你能把这个问题的出现步骤用邮件发给我们的话，我们会很感激你的。邮箱地址是support@betadwarf.com。我们真的很抱歉 :(,CorruptDataConsole,GUI_words
+"Access to PSN could not be established, setting the game to offline mode. Please reestablish connection to the internet and restart the game to access online features. Saves and achievements will still be stored.","Access to PSN could not be established, setting the game to offline mode. Please reestablish connection to the internet and restart the game to access online features. Saves and achievements will still be stored.",OfflineModePlaystation4,GUI_words_connection
+"We've established a connection to Xbox Live, do you wish to keep playing offline or do you want to restart in online mode?","We've established a connection to Xbox Live, do you wish to keep playing offline or do you want to restart in online mode?",ConnectionEstablishedXboxOne,GUI_words_connection
+"We've established a connection to PSN, do you wish to keep playing offline or do you want to restart in online mode?","We've established a connection to PSN, do you wish to keep playing offline or do you want to restart in online mode?",ConnectionEstablishedPlaystation4,GUI_words_connection
+"No user is signed in, and thus we cannot save your progress or achievements and online features will be unavailable. Please sign in a user from the menu to save your progress :)",未发现登陆用户，因此我们无法保存你的进度或成就，且网络功能不可用。请在菜单中进行登陆以保存你的进度 :),NoUserSignedInGeneral,GUI_words
+"Sorry, that controller is already signed in. Please use another",抱歉，那个控制器已经登陆过了。请使用另一个,ControllerTakeoverSignedUserError,GUI_words_controller
+"New controller assigned to player X, have fun!",新的控制器已分配给玩家X了，祝你玩得开心！,ControllerTakeoverNewControllerAssigned,GUI_words_controller
+Connection was lost to a controller. Confirm to reconnect a controller.,控制器已失去连接。请重新连接控制器。,ControllerDisconnectedPleaseReconnect,GUI_words_controller
+Player info,玩家信息,PlayerInfo,GUI_words
+"This player isn't allowed to play online, sorry :(",该玩家被禁止在线游玩，抱歉 :(,NoMultiplayerPrivilege,GUI_words
+Failed,失败,ObjectiveFailed,GUI_words
+You Died,你死了,YouDied,GUI_words
+Want to play FORCED?,想玩《强迫》吗？,Invite_Message,GUI_words
+"This player isn't allowed to play online, creating a local multiplayer game.",该玩家被禁止在线游玩，正创建本地多人游戏。,Local_Server_Created,GUI_words
+Undo,撤销,undo,GUI_words
+Only the host is allowed to kick players.,只有主机玩家才能踢人。,Only_Host_Can_Kick,GUI_words
+You cannot kick yourself silly.,你不能犯傻把自己给踢掉。,Cant_Kick_Yourself,GUI_words
+Online,在线,online,Misc
+Local,本地,local,Misc
+Enemies alive $i4 of 20,存活的敌人（$i4/20）,EnemiesAlive,Endless
+Press confirm to take control,按下确认键来控制,Confirm_Take_Control,Misc
+Playing Campaign,游玩战役中,RichPresenceInGameCampaign,Misc
+Playing Campaign drop-in with X/Y players,和X/Y个玩家在游玩可中途加入的战役中,RichPresenceInGameCampaignDropIn,Misc
+In a Public Coop Game,在公共的合作游戏中,RichPresenceInGameCoop,Misc
+Playing a Private Co-op Game,在游玩私人的合作游戏中,RichPresenceInGamePrivateCoop,Misc
+Playing Survival,在游玩生存模式中,RichPresenceInGameSurvival,Misc
+Playing Survival drop-in with X/Y players,和X/Y个玩家在游玩可中途加入的生存模式中,RichPresenceInGameSurvivalDropIn,Misc
+In a Joinable Lobby,在可加入的大厅中,RichPresenceInJoinableLobby,Misc
+In Main Menu,在主菜单中,RichPresenceMainMenu,Misc
+In lobby with X/Y players,和X/Y个玩家在大厅中,RichPresenceMainMenuLobby,Misc
+Searching For a Public Co-Op Game,正搜索公共的合作游戏,RichPresenceSearchingForCoop,Misc
+Free Balfus to resurrect,释放巴尔福斯来复活,free_to_resurrect,Misc
+Resurrect,复活,resurrect,Misc
+Stunned!,眩晕！,Stunned,Misc
+"Some players failed to connect, please try again",部分玩家连接失败，请重新尝试,MatchmakingPlayersNotConnected,GUI_words
+"Failed to start matchmaking, please try again",无法进行匹配，请重新尝试,MatchMakingFailedToInitialize,GUI_words
+Tried joining game with someone who wasn't the active user. Please sign in as the active user to receive invitations.,正尝试加入某个非有效用户的游戏。请登陆为有效用户以接受邀请。,NonActiveUserInvitation,GUI_words
+Leaving Game,正在离开游戏,LeavingGame,GUI_words
+Access to Xbox Live could not be established,Access to Xbox Live could not be established,CouldNotXboxLive,GUI_words
+Local Co-op,本地合作,local_coop,GUI_words
+Online Co-op,在线合作,online_coop,GUI_words
+A player,一位玩家,APlayer,GUI_words
+"You are playing with a different user than the main user. To save progress for § you must restart the game. Otherwise, the game will save as §.",你正与主用户以外的用户进行游戏。若要为§保存进度，你必须重启游戏。不然游戏会保存为§。,playingWithAnotherControllerThanTheMain,GUI_words
+Survival crystals,生存水晶,EndlessTokens,GUI
+Bronze,铜,bronze,GUI_words
+Silver,银,silver,GUI_words
+Gold,金,gold,GUI_words
+You have gained access to a new survival map!,你现在能进入新的生存地图了！,new_endless_map,Endless
+Required,需要,Required,Misc
+"You were born in the Moon-gore valley, <t>5.4</t>  to be among the small tribe that has forever been trapped there. <t>6.9</t>Upon birth you were marked,<t>4.25</t> destined to journey into the pit, in an effort to appease the gods and avoid their punishment. <t>9.6</t>No one has ever made it back. <t>4.45</t>Therefore, you have spent your entire life preparing for the day, <t>6.7</t> where you will be forced to venture into the unknown. <t>6.05</t>That day is now.",你出生自月血村，<t>5.4</t>是永困于此的小部落成员之一。<t>6.9</t>你一出生就被标上了印记，<t>4.25</t>为了取悦神明，逃避他们的惩罚，你注定要参与深洞之旅。<t>9.6</t>不曾有人能够回来。 <t>4.45</t>因此，你将整个人生都用在为那个日子做准备，<t>6.7</t>那个你会被强迫参与未知冒险的日子。 <t>6.05</t>而现在就是那个日子。,IntroVideo,Dialog_IntroVideo
+"So the champions left Balfus to restore his beloved halls, <t>5.1</t> seeking instead to free their tribe from its ancient prison. <t>5.4</t>The tribe was at first fearful, but the lure of freedom quickly overcame them. <t>6.25</t>Now the tribe and its champions will have to make their own place in the world. <t>6.4</t>But that, is another game :)",因此冠军们留下巴尔福斯去修复他钟爱的大厅，<t>5.1</t> 自己则去寻找把族人从古老监狱中解放出来的方法。<t>5.4</t>刚开始族人们都很害怕，但对自由的渴望很快让他们战胜了恐惧。<t>6.25</t>现在冠军们和他们的族人得靠自己来开拓这个世界。<t>6.4</t>不过，那是另外一个游戏了。:),EndVideo,Dialog_EndVideo
+Gamercard,Gamercard,PlayerInfoXbox,GUI_words
+"Couldn't find user, sorry :(",找不到用户，抱歉。:(,no_option_available_for_user,GUI_words
+Waiting for other players,正等待其它玩家,waiting_for_other_players,GUI_words
+Preferred Map,偏好地图,preferred_map,Misc
+Add setup,添加设置,add_setup,GUI
+Delete setup,删除设置,delete_setup,GUI
+Set to None,设置为无,set_to_none,GUI
+Input Setup,输入设置,input_setup,GUI
+Press a button on the keyboard/controller you want to use.,按下键盘或手柄按键来选择你想用的控制器。,press_on_new_device,GUI
+Reset All to Defaults,全部重置为默认,reset_all_inputsetups_to_default,GUI
+Detecting corrupted input. Do you want to reset all input setups?,检测到已损坏的输入。要重置全部输入设置吗？,reset_all_inputs,GUI
+Interact,交互,interact,Setup_Input
+Show tooltip,显示小贴士,skilltooltip,Setup_Input
+Call/place Balfus,呼唤/放置巴尔福斯,placeorb,Setup_Input
+Refresh Server,刷新服务器,refreshserver,Setup_Input
+Change search range,变更搜索范围,changesearchrange,Setup_Input
+Join game,加入游戏,joingame,Setup_Input
+Horizontal Aim negative,反向水平瞄准,horizontalaimnegative,Setup_Input
+Horizontal Aim positive,正向水平瞄准,horizontalaimpositive,Setup_Input
+Movement left,向左移动,horizontallegnegative,Setup_Input
+Movement right,向右移动,horizontallegpositive,Setup_Input
+Vertical Aim negative,反向垂直瞄准,verticalaimnegative,Setup_Input
+Vertical Aim positive,正向垂直瞄准,verticalaimpositive,Setup_Input
+Movement down,向下移动,verticallegnegative,Setup_Input
+Movement up,向上移动,verticallegpositive,Setup_Input
+Back,返回,back,Setup_Input
+Menu tab left,左切菜单选项,menuextraleft,Setup_Input
+Menu tab right,右切菜单选项,menuextraright,Setup_Input
+Secret room found!,发现秘密房间！,secretRoomFound,GUI
+Read dead values,读取死区值,read_dead_values,GUI_words

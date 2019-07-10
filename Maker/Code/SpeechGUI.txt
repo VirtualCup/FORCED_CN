@@ -1,0 +1,16 @@
+# def Awake()
+
+_instance = this;
+if (!startDialogOnEnable)
+{
+	base.enabled = false;
+}
+BetaDwarf.Debug.Log("SpeechGUI Awake. Application.systemLanguage: " + Application.systemLanguage, null);
+if (Application.systemLanguage != SystemLanguage.Russian || Application.systemLanguage != SystemLanguage.Polish)
+{
+	BetaDwarf.Debug.Log("Change Font", null);
+	style.font = (Resources.Load("pala") as Font);
+	style.fontSize = (int)((float)style.fontSize * 0.66f);
+}
+originalFontSize = style.fontSize;
+AudioContainer.setVoiceVolumeDelegates.Add(OnVolumeChanged);
